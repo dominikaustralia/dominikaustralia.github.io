@@ -1,4 +1,4 @@
-## WARUM | WHY: Wer Gott ist, wer ich bin, was ich mache.
+## WARUM &#124; WHY: Wer Gott ist, wer ich bin, was ich mache.
 Ich bin Dominik, ein Kind des lebendigen Gottes, welcher Jesus Christus heißt. Ich liebe Jesus, und mit meinem Leben möchte ich ihn anbeten, ihn immer besser kennenlernen, und ihm zur Verfügung stehen, wohin er mich sendet. Ich bin Sein Diener.
 
 Jesus möchte, dass unsere Herzen für ihn brennen und wir ergreifen, was er uns schenken möchte: wiedergeborenes Leben im Reich Gottes.
