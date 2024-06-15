@@ -1,7 +1,7 @@
 ## WER, WAS, WARUM: Über Gott, über mich, über meine Reise.
 Ich bin Dominik, ein Kind des lebendigen Gottes, welcher Jesus Christus heißt. Ich liebe Jesus, und mit meinem Leben möchte ich ihn anbeten, ihn immer besser kennenlernen, und ihm zur Verfügung stehen, wohin er mich sendet. Ich bin Sein Diener.
 
-Jesus möchte, dass unsere Herzen für ihn brennen. Er möchte uns ein neugeborenes Leben im Reich Gottes schenken. Das zu entdecken und weiterzugeben macht mir große Freude - und es ist Gottes Auftrag: "Machet zu Jüngern". Dieses Anliegen ist in mir gewachsen, besonders auch durch die Zeit bei den [JE der FeG Frankfurt](fegfrankfurt.de/jungeerwachsene). 
+Jesus möchte, dass unsere Herzen für ihn brennen. Er möchte uns ein neugeborenes Leben im Reich Gottes schenken. Das zu entdecken und weiterzugeben macht mir große Freude - und es ist Gottes Auftrag: "Machet zu Jüngern". Dieses Anliegen ist in mir gewachsen, besonders auch durch die Zeit bei den [JE der FeG Frankfurt](https://www.fegfrankfurt.de/jungeerwachsene). 
 
 Nun begebe ich mich auf eine _Bildungsreise nach Australien_, um zu lernen und zu entwickeln, wie ich dazu beitragen kann.
 
