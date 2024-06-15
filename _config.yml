@@ -14,6 +14,8 @@ theme: "minima"
 
 #rss: rss
 
+google_analytics: G-MFRN23MZD9
+
 plugins:
   #- jekyll-feed
   - jekyll-seo-tag
