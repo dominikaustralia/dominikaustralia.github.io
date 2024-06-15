@@ -18,4 +18,6 @@ Ich möchte mir mein Anliegen immer wieder vor Augen führen:
 **Als Kind und Diener Gottes leben und lernen, Menschen in die Jüngerschaft Jesu zu leiten. 
 Live as a child and servant of God and learn to lead people into the discipleship of Jesus.**
 
+<center>
 <img src="/_media/2024-Q2/dominikaustralia-20240611103119.png" alt="QR code baby kangoroo" width="400">
+</center>
