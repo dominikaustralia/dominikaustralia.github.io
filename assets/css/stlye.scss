@@ -3,6 +3,6 @@
 ---
 
 @import
-  "_saas/minima/skins/{{ site.minima.skin | default: 'classic' }}",
+  "_saas/minima/skins/{{ site.minima.skin | default: 'classic.scss' }}",
   "_saas/minima/initialize";
 
