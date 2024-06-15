@@ -6,8 +6,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-title: Blog Einträge
-list_title: List Titel
+title: Dominik in Australia
+list_title: Blogeinträge
 # permalink: 
 # published: 
 ---
