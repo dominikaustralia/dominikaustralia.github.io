@@ -58,11 +58,6 @@ minima:
   #  - { platform: x,              user_url: "https://x.com/jekyllrb" }
   #  - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
 
-
-kramdown:
-  syntax_highlighter_opts:
-    disable: true
-
 # Email / Social media user names used by the minima theme:
 
 # All of these are optional and can be removed or commented out
@@ -87,4 +82,3 @@ defaults:
       type: post
     values:
       tags: Allgemein # Other
-
