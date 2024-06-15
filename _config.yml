@@ -6,11 +6,11 @@ description: "Erkenntnissen und Erfahrungen auf dem roten Kontinent ;)" # This w
 
 # show_excerpts: true # display post-exerpts on the home page
 
-# theme: "minima"
+theme: "minima"
 # As of November 2023, GitHub Pages still uses Minima 2.5.1 (https://pages.github.com/versions/). 
 # If you want to use the latest Minima version on GitHub Pages, use the following setting and 
 # add a line comment on "theme: minima" above.
-remote_theme: jekyll/minima
+# remote_theme: jekyll/minima
 
 #rss: rss
 
