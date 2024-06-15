@@ -45,3 +45,7 @@
   font-size: 2.5em;
   opacity: 0.3;
 }
+
+blockquote {
+  background-color: coral;
+}
