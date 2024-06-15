@@ -7,6 +7,9 @@
 #
 layout: home
 title: Blog Einträge
+list_title: List Titel
+# permalink: 
+# published: 
 ---
 
 ---
