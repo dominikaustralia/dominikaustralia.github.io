@@ -13,3 +13,4 @@ else
 fi
 
 gem build minima.gemspec
+
