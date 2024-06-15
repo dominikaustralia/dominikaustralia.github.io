@@ -8,6 +8,8 @@
 layout: home
 title: Blog Einträge
 ---
+
+---
 ## WER, WAS, WARUM: Über Gott, über mich, über meine Reise.
 Ich bin Dominik, ein Kind des lebendigen Gottes, welcher Jesus Christus heißt. Ich liebe Jesus, und mit meinem Leben möchte ich ihn anbeten, ihn immer besser kennenlernen, und ihm zur Verfügung stehen, wohin er mich sendet. Ich bin Sein Diener.
 
