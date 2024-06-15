@@ -7,10 +7,10 @@ description: "Erkenntnissen und Erfahrungen auf dem roten Kontinent ;)" # This w
 #########################################################################################
 theme: "minima"
 
-rss: rss
+#rss: rss
 
 plugins:
-  - jekyll-feed
+  #- jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
 
@@ -83,3 +83,7 @@ defaults:
       type: post
     values:
       tags: Allgemein # Other
+
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
