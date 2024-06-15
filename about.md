@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
+title: Über mich
 permalink: /about/
 ---
 
-## WER, WAS, WARUM: Über Gott, über mich, über meine Reise.
+### WER, WAS, WARUM: Über Gott, über mich, über meine Reise.
 Ich bin Dominik, ein Kind des lebendigen Gottes, welcher Jesus Christus heißt. Ich liebe Jesus, und mit meinem Leben möchte ich ihn anbeten, ihn immer besser kennenlernen, und ihm zur Verfügung stehen, wohin er mich sendet. Ich bin Sein Diener.
 
 Jesus möchte, dass unsere Herzen für ihn brennen. Er möchte uns ein neugeborenes Leben im Reich Gottes schenken. Das zu entdecken und weiterzugeben macht mir große Freude - und es ist Gottes Auftrag: "Machet zu Jüngern". Dieses Anliegen ist in mir gewachsen, besonders auch durch die Zeit bei den [JE der FeG Frankfurt](https://fegfrankfurt.de/angebote/junge-erwachsene/). 
