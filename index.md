@@ -19,5 +19,5 @@ Ich möchte mir mein Anliegen immer wieder vor Augen führen:
 Live as a child and servant of God and learn to lead people into the discipleship of Jesus.**
 
 <center>
-<img src="/_media/2024-Q2/dominikaustralia-20240611103119.png" alt="QR code baby kangoroo" width="400">
+  ![QR code baby kangoroo](/assets/images/global/dominikaustralia-20240611103119.png)
 </center>
