@@ -1,3 +1,13 @@
+---
+#
+# By default, content added below the "---" mark will appear in the home page
+# between the top bar and the list of recent posts.
+# To change the home page layout, edit the _layouts/home.html file.
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+#
+layout: home
+---
+
 ## WER, WAS, WARUM: Über Gott, über mich, über meine Reise.
 Ich bin Dominik, ein Kind des lebendigen Gottes, welcher Jesus Christus heißt. Ich liebe Jesus, und mit meinem Leben möchte ich ihn anbeten, ihn immer besser kennenlernen, und ihm zur Verfügung stehen, wohin er mich sendet. Ich bin Sein Diener.
 
