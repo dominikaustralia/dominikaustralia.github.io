@@ -7,6 +7,21 @@ blockquote {
   letter-spacing: 0px;
 }
 
+.footer-left {
+  text-align: left;
+  width: 30%;
+}
+
+.footer-center {
+  text-align: center;
+  width: 40%;
+}
+
+.footer-right {
+  text-align: right;
+  width: 30%;
+}
+
 /* Post navigation links */
 .post_navi {
   display: flex;
