@@ -23,7 +23,7 @@ Nun begebe ich mich auf eine _Bildungsreise nach Australien_, um zu lernen und z
 Es geht mir nicht in erster Linie darum, Land und Leute zu "erkunden" und etwas Tolles zu erzählen zu haben. Vielmehr möchte ich mir ein Jahr mit Gott nehmen, mich von ihm prägen lassen und von christlichen Leitern lernen.
 
 Zwei Pläne habe ich vor Augen:
-1) Ich starte mit einer Bibelschule in der Nähe von Sydney. In acht Wochen mit dem Fokus "Bible, Discipleship, Leadership" (Bibel, Jüngerschaft, Leiterschaft) werden wir in einer kleinen Gruppe von verschiedene Vorbildern aus der Bibel lernen.
+1) Ich starte mit einer Bibelschule in der Nähe von Sydney. In acht Wochen mit dem Fokus "Bible, Discipleship, Leadership" (Bibel, Jüngerschaft, Leiterschaft) werden wir in einer kleinen Gruppe von verschiedenen Vorbildern aus der Bibel lernen.
 2) Danach möchte ich wohnen, leben und arbeiten in Melbourne. Dort ist eine Gemeinde, die für Jesus brennt und ihn im Fokus hat. Die Leiter dort haben mich inspiriert und neugierig gemacht, wie dort das Feuer des Glaubens weitergegeben wird.
 **Ich erhoffe mir, inspiriert und herausgefordert zu werden: wie hat Jesus zu Jüngern gemacht, und wie folge ich ihm heute nach?!**
 
