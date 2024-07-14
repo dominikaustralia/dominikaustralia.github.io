@@ -3,7 +3,7 @@ categories: info
 # tags: 
 ---
 
-## 2024-07-14 "Did you arrive?!" – Yes :D
+## "Did you arrive?!" – Yes :D
 Zuerst kommt das englische Original (englisch zu schreiben fühlt sich für mich natürlicher an), unten ist die von Deepl übersetzte und von mir überarbeitete [deutsche Version](#deutsch). Dazwischen kommen ein paar [Bilder](#bilder).
 
 ---
@@ -46,7 +46,7 @@ My first impression from Bible School (where I arrived today) is that people are
 
 ---
 # Deutsch
-## 2024-07-14 "Bist du schon angekommen?!" – Ja :D
+## "Bist du schon angekommen?!" – Ja :D
 
 ---
 **In Kürze**: Von einem [Hostel](https://maps.app.goo.gl/s1vRoU7xFL2MwnQJ6) in Sydney (leider tat unterwegs mein Bein weh) ging es für mich weiter zur [Bibelschule in Moss Vale](https://maps.app.goo.gl/guYgvbnT5NgDzsxR6). Es ist spannend, so viel Neues zu entdecken. Morgen beginnt das Programm der Bibelschule, wir lernen uns besser kennen und tauschen uns über Gott und über [Leiterschaft](https://capernwrayaustralia.org/study/#BDL) aus.
