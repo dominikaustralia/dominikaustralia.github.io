@@ -4,7 +4,7 @@ categories: info
 ---
 
 ## 2024-07-14 "Did you arrive?!" – Yes :D
-Oben das englische Original (englisch zu schreiben fühlt sich für mich natürlicher an), [unten](#Deutsch) die von Deepl übersetzte und von mir überarbeitete deutsche Version.
+Oben das englische Original (englisch zu schreiben fühlt sich für mich natürlicher an), [unten](#deutsch) die von Deepl übersetzte und von mir überarbeitete deutsche Version.
 
 ---
 Short notice: I arrived at a [hostel](https://maps.app.goo.gl/s1vRoU7xFL2MwnQJ6) in Sydney (though with a sore leg) and carried on to [Bible School in Moss Vale](https://maps.app.goo.gl/guYgvbnT5NgDzsxR6). I'm glad for many new impressions. Next week we start with the program, getting to know each other more and learning lessons about [leadership](https://capernwrayaustralia.org/study/#BDL).
