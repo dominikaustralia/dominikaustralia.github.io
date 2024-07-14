@@ -7,7 +7,7 @@ categories: info
 Zuerst kommt das englische Original (englisch zu schreiben fühlt sich für mich natürlicher an), [unten (klicken)](#deutsch) ist die von Deepl übersetzte und von mir überarbeitete deutsche Version. Dazwischen kommen ein paar [Bilder](#bilder).
 
 ---
-**Short notice**: I arrived at a [hostel](https://maps.app.goo.gl/s1vRoU7xFL2MwnQJ6) in Sydney (though with a sore leg) and carried on to [Bible School in Moss Vale](https://maps.app.goo.gl/guYgvbnT5NgDzsxR6). I'm glad for many new impressions! :) This week we start with the program, getting to know each other more and learning lessons about [leadership](https://capernwrayaustralia.org/study/#BDL).
+**Sum-up**: I arrived at a [hostel](https://maps.app.goo.gl/s1vRoU7xFL2MwnQJ6) in Sydney (though with a sore leg) and carried on to [Bible School in Moss Vale](https://maps.app.goo.gl/guYgvbnT5NgDzsxR6). I'm glad for many new impressions! :) This week we start with the program, getting to know each other more and learning lessons about [leadership](https://capernwrayaustralia.org/study/#BDL).
 
 ---
 
