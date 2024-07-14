@@ -4,7 +4,7 @@ categories: info
 ---
 
 ## 2024-07-14 "Did you arrive?!" – Yes :D
-Oben das englische Original (englisch zu schreiben fühlt sich für mich natürlicher an), [unten](#deutsch) die von Deepl übersetzte und von mir überarbeitete deutsche Version.
+Oben das englische Original (englisch zu schreiben fühlt sich für mich natürlicher an), [unten](#deutsch) die von Deepl übersetzte und von mir überarbeitete deutsche Version. Zwischen englisch und deutsch sind ein paar Bilder.
 
 ---
 Short notice: I arrived at a [hostel](https://maps.app.goo.gl/s1vRoU7xFL2MwnQJ6) in Sydney (though with a sore leg) and carried on to [Bible School in Moss Vale](https://maps.app.goo.gl/guYgvbnT5NgDzsxR6). I'm glad for many new impressions. Next week we start with the program, getting to know each other more and learning lessons about [leadership](https://capernwrayaustralia.org/study/#BDL).
@@ -33,13 +33,12 @@ Would you expect me to have my first job interview the second day that I am in A
 My first impression from Bible School (where I arrived today) is that people are curious about what God wants to teach us all during the upcoming eight weeks and I am really excited that I can finally spend some more time with Him!
 
 ---
-![Abflug in Bangkok](/assets/images/2024q3/P_20240711_173846.jpg){:width="32%"}
-![Anflug in Sydney](/assets/images/2024q3/P_20240712_021507.jpg){:width="32%"}
-![Palmen im Park](/assets/images/2024q3/P_20240712_140456.jpg){:width="32%"}
-
-![Secret Garden Backpackers](/assets/images/2024q3/P_20240713_145748.jpg){:width="32%"}
-![Müsli und Milch, Deutschland und Australien](/assets/images/2024q3/P_20240714_112925.jpg){:width="32%"}
-![Hillsong Waterloo](/assets/images/2024q3/P_20240714_090038.jpg){:width="32%"}
+![Abflug in Bangkok](/assets/images/2024q3/P_20240711_173846.jpg){:width="49%"}
+![Anflug in Sydney](/assets/images/2024q3/P_20240712_021507.jpg){:width="49%"}
+![Palmen im Park](/assets/images/2024q3/P_20240712_140456.jpg){:width="49%"}
+![Secret Garden Backpackers](/assets/images/2024q3/P_20240713_145748.jpg){:width="49%"}
+![Müsli und Milch, Deutschland und Australien](/assets/images/2024q3/P_20240714_112925.jpg){:width="49%"}
+![Hillsong Waterloo](/assets/images/2024q3/P_20240714_090038.jpg){:width="49%"}
 
 ---
 # Deutsch
