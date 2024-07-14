@@ -19,17 +19,11 @@ This bears a secret to full human flourishing: Man is made in the image of God. 
 Still, you should know: no matter how low you need to go, Jesus went lower. How well does that fit to Jesus' prayer that God may glorify him such that he glorifies the father ([John 17](https://www.bibleserver.com/NIV/John17)).
 
 2) I had some really busy days before I left towards Australia, hey!
-
 From working at my master's thesis at nights, sometimes until 6 o'clock in the morning (sleeping for 3 to 4 hours per night only) to continuing my "post master's trip", visiting many friends and family. I could share many nice moments with people that are important to me, including a final BBQ with close friends from church, two days before my flight. 
-
 Gladly I was finally able to hand in my master's thesis on Wednesday, the same day that the flight departed ^^. In the early afternoon, my family supported me with packing and took me to the airport (thanks y’all;)). The flight should keep some surprises in readiness...
-
 I'll skip the details how the departure had a large delay (which was no problem due to the long transit time in Bangkok), how I almost passed out because of the pain and swelling that a bite of a black fly caused in me left leg (the BBQ on Monday...), and how I got friends with the boy of a warm and gentle apartment owner on Bali XD. Does God not have humour? I yearn to seek his kingdom first – not getting distracted by all the nice places that people suggest me to visit – and He already starts to fulfil the "shall be given to you" ([Matthew 6,33](https://www.bibleserver.com/NIV/Matthew6%3A33)). By the way: getting a wheelchair makes your routes and checks at the airport much more determined - but it also humbles, knowing you need help because these few meters are a pain to walk...
-
 From [Secret Backpackers Garden](https://maps.app.goo.gl/s1vRoU7xFL2MwnQJ6) in Sydney (where I stayed for two nights) I discovered the neighbourhood, found milk, cereals and an ALDI mobile SIM card from our well-known German food supplier, before watching local kid's teams play rugby on a public field. It's nice that sports are a visible thing in public here.
-
 Would you expect me to have my first job interview the second day that I am in Australia? Me neither. It was just an experiment by a startup how people react to talking to a job interview AI. Interestingly, it felt surprisingly natural though.
-
 My first impression from Bible School (where I arrived today) is that people are curious about what God wants to teach us all during the upcoming eight weeks and I am really excited that I can finally spend some more time with Him!
 
 ---
