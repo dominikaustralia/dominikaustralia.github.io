@@ -27,13 +27,13 @@ Would you expect me to have my first job interview the second day that I am in A
 My first impression from Bible School (where I arrived today) is that people are curious about what God wants to teach us all during the upcoming eight weeks and I am really excited that I can finally spend some more time with Him!
 
 ---
-![Abflug in Bangkok](/assets/images/2024q3/P_20240711_173846.jpg){:width="33%"}
-![Anflug in Sydney](/assets/images/2024q3/P_20240712_021507.jpg){:width="33%"}
-![Palmen im Park](/assets/images/2024q3/P_20240712_140456.jpg){:width="33%"}
+![Abflug in Bangkok](/assets/images/2024q3/P_20240711_173846.jpg){:width="32%"}
+![Anflug in Sydney](/assets/images/2024q3/P_20240712_021507.jpg){:width="32%"}
+![Palmen im Park](/assets/images/2024q3/P_20240712_140456.jpg){:width="32%"}
 
-![Secret Garden Backpackers](/assets/images/2024q3/P_20240713_145748.jpg){:width="33%"}
-![Müsli und Milch, Deutschland und Australien](/assets/images/2024q3/P_20240714_112925.jpg){:width="33%"}
-![Hillsong Waterloo](/assets/images/2024q3/P_20240714_090038.jpg){:width="33%"}
+![Secret Garden Backpackers](/assets/images/2024q3/P_20240713_145748.jpg){:width="32%"}
+![Müsli und Milch, Deutschland und Australien](/assets/images/2024q3/P_20240714_112925.jpg){:width="32%"}
+![Hillsong Waterloo](/assets/images/2024q3/P_20240714_090038.jpg){:width="32%"}
 
 ---
 # Deutsch
