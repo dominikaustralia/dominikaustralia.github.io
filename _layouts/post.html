@@ -21,7 +21,8 @@ layout: base
       {% assign author = page.author.name | default: site.author.name %}
       {%- if author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ author }}</span></span>
-      {%- endif -%}</p>
+      {%- endif -%}
+    • {{ page.content | read_time }}</p>
   </header>
 
   <div class="share-links">
