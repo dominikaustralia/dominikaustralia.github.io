@@ -22,7 +22,7 @@ layout: base
       {%- if author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ author }}</span></span>
       {%- endif -%}
-        • {{ page.content | read_time }}</p>
+        • {% include reading-time.html %} </p>
   </header>
 
   <div class="share-links">
