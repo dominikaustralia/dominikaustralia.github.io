@@ -10,7 +10,7 @@ layout: base
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {{ page.date | date: date_format }}
-      </time>
+      </time> • {% include reading-time.html %} 
       {%- if page.modified_date -%}
         ~ 
         {%- assign mdate = page.modified_date | date_to_xmlschema -%}
@@ -18,7 +18,7 @@ layout: base
           {{ mdate | date: date_format }}
         </time>
       {%- endif -%}
-      {% assign author = page.author | default: site.author %}
+      {% assign author = page.author.name | default: site.author.name %}
       {%- if author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ author }}</span></span>
       {%- endif -%}</p>

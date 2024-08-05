@@ -1,12 +1,20 @@
 title: "Dominik in Australia"
-author: "Dominik"
-description: "Erkenntnissen und Erfahrungen auf dem roten Kontinent ;)" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+author:
+  name: "Dominik"
+  email: "australia@vodafonemail.de"
+description: "Erkenntnisse und Erfahrungen auf dem roten Kontinent ;)" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # show_excerpts: true # display post-exerpts on the home page
 
 theme: "minima"
+# As of November 2023, GitHub Pages still uses Minima 2.5.1 (https://pages.github.com/versions/). 
+# If you want to use the latest Minima version on GitHub Pages, use the following setting and 
+# add a line comment on "theme: minima" above.
+# remote_theme: jekyll/minima
 
 #rss: rss
+
+google_analytics: G-MFRN23MZD9
 
 plugins:
   #- jekyll-feed
@@ -31,7 +39,7 @@ minima:
   # solarized-light	   Light variant of solarized color scheme.
   # solarized-dark	   Dark variant of solarized color scheme.
   # solarized	         Adaptive skin for solarized color scheme skins.
-  skin: classic
+  skin: dark # classic
   
   # Minima date format.
   # The default value is "%b %d, %Y" (e.g. Nov 14, 2023) 

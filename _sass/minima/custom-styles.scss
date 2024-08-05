@@ -1,6 +1,23 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 
+.footer-left {
+  text-align: left;
+  width: 40%;
+  float: left;
+}
+
+.footer-center {
+  text-align: center;
+  width: 10%;
+}
+
+.footer-right {
+  text-align: right;
+  width: 40%;
+  float: right;
+}
+
 /* Post navigation links */
 .post_navi {
   display: flex;
