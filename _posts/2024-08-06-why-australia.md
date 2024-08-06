@@ -46,8 +46,10 @@ Today’s world needs wise leaders. And one "goal of a good leader should be to 
 | Strand | Sonnenaufgang mit Nebel |
 |![Mit Jacke](/assets/images/2024q3/P_20240719_163457.jpg){:width="100%"}|![Bunter Sonnenaufgang](/assets/images/2024q3/P_20240722_065145_bearbeitet.jpg){:width="100%"}|
 | Mit Jacke - Winter in den Southern Highlands | Bunter Sonnenaufgang |
-|![Müsli und Milch, Deutschland und Australien](/assets/images/2024q3/){:width="100%"} | ![Hillsong Waterloo](/assets/images/2024q3/){:width="100%"} |
-|Müsli und Milch, Deutschland und Australien | Hillsong Waterloo|
+|![Felsen](/assets/images/2024q3/P_20240803_125432.jpg){:width="100%"} | ![River](/assets/images/2024q3/P_20240803_140109.jpg){:width="100%"} |
+| Wanderung zwischen Felsen ... | ... am Fluss ... |
+|![Wasserfall](/assets/images/2024q3/P_20240803_150101.jpg){:width="100%"} | ![Tal](/assets/images/2024q3/P1000093.JPG){:width="100%"} |
+| ... bis zum Wasserfall | Blick über das Tal |
 
 ---
 # Deutsch
