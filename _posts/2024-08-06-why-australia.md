@@ -52,8 +52,8 @@ Today’s world needs wise leaders. And one "goal of a good leader should be to 
 | ... bis zum Wasserfall | Blick über das Tal |
 
 ---
-{% include lightbox.html src="P_20240717_142523.jpg&w=300&h=300" data="group" title="Strand" %} 
-{% include lightbox.html src="P_20240718_070946.jpg&w=300&h=300" data="group" title="Sonnenaufgang mit Nebel" %} 
+{% include lightbox.html src="P_20240717_142523.jpg" data="group" title="Strand" %} 
+{% include lightbox.html src="P_20240718_070946.jpg" data="group" title="Sonnenaufgang mit Nebel" %} 
 
 ---
 # Deutsch
