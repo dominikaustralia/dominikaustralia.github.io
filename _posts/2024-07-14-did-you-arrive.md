@@ -36,7 +36,7 @@ My first impression from Bible School (where I arrived today) is that people are
 ---
 # Bilder
 
-|[![Abflug in Bangkok](/assets/images/2024q3/P_20240711_173846.jpg){:width="100%"}](/assets/images/2024q3/P_20240711_173846.jpg){:.glightbox}|![Anflug in Sydney](/assets/images/2024q3/P_20240712_021507.jpg){:width="100%"}|
+|![Abflug in Bangkok](/assets/images/2024q3/P_20240711_173846.jpg){:width="100%"}|![Anflug in Sydney](/assets/images/2024q3/P_20240712_021507.jpg){:width="100%"}|
 |---|---|
 |Abflug in Bangkok|Landeanflug in Sydney|
 |![Palmen im Park](/assets/images/2024q3/P_20240712_140456.jpg){:width="100%"}|![Secret Garden Backpackers](/assets/images/2024q3/P_20240713_145748.jpg){:width="100%"}|
