@@ -46,6 +46,7 @@ Today’s world needs wise leaders. And one "goal of a good leader should be to 
 | Strand | Sonnenaufgang mit Nebel |
 | {% include lightbox.html src="2024q3/P_20240719_163457.jpg" data="group" title="Mit Jacke - Winter in den Southern Highlands" %} | {% include lightbox.html src="2024q3/P_20240722_065145_bearbeitet.jpg" data="group" title="Bunter Sonnenaufgang" %} |
 | Mit Jacke - Winter in den Southern Highlands | Bunter Sonnenaufgang |
+
 | {% include lightbox.html src="2024q3/P_20240803_125432.jpg" data="group" title="Wanderung zwischen Felsen ..." %} {% include lightbox.html src="2024q3/P_20240803_140109.jpg" data="group" title="... am Fluss ..." %} |
 | Wanderung zwischen Felsen ... – ... am Fluss ... |
 | {% include lightbox.html src="2024q3/P_20240803_150101.jpg" data="group" title="... bis zum Wasserfall" %} {% include lightbox.html src="2024q3/P1000093.JPG" data="group" title="Blick über das Tal" %} |
