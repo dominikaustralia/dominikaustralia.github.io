@@ -74,12 +74,39 @@ Today’s world needs wise leaders. And one "goal of a good leader should be to 
       Bunter Sonnenaufgang
     </td>
   </tr>
+  <tr>
+    <td>
+      {% include lightbox.html src="2024q3/P_20240803_125432.jpg" data="group" title="Wanderung zwischen Felsen ..." %}
+    </td>
+    <td>
+      {% include lightbox.html src="2024q3/P_20240803_140109.jpg" data="group" title="... am Fluss ..." %}
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Wanderung zwischen Felsen ...
+    </td>
+    <td>
+      ... am Fluss ...
+    </td>
+  </tr>
+  <tr>
+    <td>
+      {% include lightbox.html src="2024q3/P_20240803_150101.jpg" data="group" title="... bis zum Wasserfall" %}
+    </td>
+    <td>
+      {% include lightbox.html src="2024q3/P1000093.JPG" data="group" title="Blick über das Tal" %}
+    </td>
+  </tr>
+  <tr>
+    <td>
+      ... bis zum Wasserfall
+    </td>
+    <td>
+      Blick über das Tal
+    </td>
+  </tr>
 </table>
-
-| {% include lightbox.html src="2024q3/P_20240803_125432.jpg" data="group" title="Wanderung zwischen Felsen ..." %} {% include lightbox.html src="2024q3/P_20240803_140109.jpg" data="group" title="... am Fluss ..." %} |
-| Wanderung zwischen Felsen ... – ... am Fluss ... |
-| {% include lightbox.html src="2024q3/P_20240803_150101.jpg" data="group" title="... bis zum Wasserfall" %} {% include lightbox.html src="2024q3/P1000093.JPG" data="group" title="Blick über das Tal" %} |
-| ... bis zum Wasserfall – Blick über das Tal |
 
 ---
 # Deutsch
