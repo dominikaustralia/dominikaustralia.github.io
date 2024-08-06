@@ -41,7 +41,7 @@ Today’s world needs wise leaders. And one "goal of a good leader should be to 
 ---
 # Bilder
 
-|[![Strand](/assets/images/2024q3/P_20240717_142523.jpg){:width="100%"}](/assets/images/2024q3/P_20240717_142523.jpg){:.glightbox}|[![Sonnenaufgang mit Nebel](/assets/images/2024q3/P_20240718_070946.jpg){:width="100%"}](/assets/images/2024q3/P_20240718_070946.jpg){:.glightbox}|
+|[![Strand](/assets/images/2024q3/P_20240717_142523.jpg)](/assets/images/2024q3/P_20240717_142523.jpg){:width="100%":.glightbox}|[![Sonnenaufgang mit Nebel](/assets/images/2024q3/P_20240718_070946.jpg)](/assets/images/2024q3/P_20240718_070946.jpg){:width="100%":.glightbox}|
 |---|---|
 | Strand | Sonnenaufgang mit Nebel |
 |![Mit Jacke](/assets/images/2024q3/P_20240719_163457.jpg){:width="100%"}|![Bunter Sonnenaufgang](/assets/images/2024q3/P_20240722_065145_bearbeitet.jpg){:width="100%"}|
