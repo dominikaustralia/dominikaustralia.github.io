@@ -64,7 +64,7 @@ We have lectures about the Bible, lectures about leadership, and practical tasks
 
 Stay tuned for bite-sized leadership take-aways that are to come...
 
-## Future steps
+## Upcoming plans
 The Bible school already ends in two weeks :/. After two and a half weeks in New Zealand (road trip on the southern island with other students from Bible school) I'll return to Australia and freelance as an IT-Consultant.
 
 ---
