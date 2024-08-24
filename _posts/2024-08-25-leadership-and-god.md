@@ -1,6 +1,5 @@
 ---
 categories: info
-languages: 2
 # tags: 
 ---
 
