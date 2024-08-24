@@ -73,10 +73,10 @@ The Bible school already ends in two weeks :/. After two and a half weeks in New
 <table>
   <tr>
     <td>
-      {% include lightbox.html src="2024q3/2024-08-25/P_20240807_174121.jpg" data="group" title="Sonnenuntergang" %}
+      {% include lightbox.html src="2024q3/2024-08-24/P_20240807_174121.jpg" data="group" title="Sonnenuntergang" %}
     </td>
     <td>
-      {% include lightbox.html src="2024q3/2024-08-25/PXL_20240808_203706655.MP.jpg" data="group" title="Früh aufstehen zum Joggen gehen lohnt sich!" %}
+      {% include lightbox.html src="2024q3/2024-08-24/PXL_20240808_203706655.MP.jpg" data="group" title="Joggen" %}
     </td>
   </tr>
   <tr>
@@ -89,10 +89,10 @@ The Bible school already ends in two weeks :/. After two and a half weeks in New
   </tr>
   <tr>
     <td>
-      {% include lightbox.html src="2024q3/2024-08-25/P_20240811_122409.jpg" data="group" title="Snookertisch" %}
+      {% include lightbox.html src="2024q3/2024-08-24/P_20240811_122409.jpg" data="group" title="Snookertisch" %}
     </td>
     <td>
-      {% include lightbox.html src="2024q3/2024-08-25/P_20240812_100709.jpg" data="group" title="Fahrradtour: 70km und 1000 Höhenmeter. Der Anfang lief noch ganz gut..." %}
+      {% include lightbox.html src="2024q3/2024-08-24/P_20240812_100709.jpg" data="group" title="Fahrradtour" %}
     </td>
   </tr>
   <tr>
@@ -105,10 +105,10 @@ The Bible school already ends in two weeks :/. After two and a half weeks in New
   </tr>
   <tr>
     <td>
-      {% include lightbox.html src="2024q3/2024-08-25/P_20240823_063834.jpg" data="group" title="Noch ein Sonnenaufgang mit Nebel" %}
+      {% include lightbox.html src="2024q3/2024-08-24/P_20240823_063834.jpg" data="group" title="Noch ein Sonnenaufgang mit Nebel" %}
     </td>
     <td>
-      {% include lightbox.html src="2024q3/2024-08-25/P_20240824_120134.jpg" data="group" title="Strandtag mit Surfen" %}
+      {% include lightbox.html src="2024q3/2024-08-24/P_20240824_120134.jpg" data="group" title="Strandtag mit Surfen" %}
     </td>
   </tr>
   <tr>
