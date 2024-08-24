@@ -42,13 +42,13 @@ Either from natural sciences and an evolutionary worldview ("survival of the fit
 * Many religions have collected more or less rules of behaviour and create a framework for what is "right" or "wrong".
 * I believe, the ultimate ethics were lived by Jesus Christ, whom the Bible talks about. I am supremely inspired by Him. His example touches my heart, and I am convinced by examples of success of people who act completely different to what we normally see around us. I want to be part of His upside-down movement.
  
-{% include callout.html content="<h4>Jesus' upside down example<\h4>
+## Jesus' upside down example
 > "He [Jesus] made himself nothing by taking the very nature of a servant, being made in human likeness. And being found in appearance as a man, he humbled himself by becoming obedient to death – even death on a cross!" (Bible, Philippians 2:7-8)
 
 > "He [Jesus] was oppressed and afflicted, yet he did not open his mouth; he was led like a lamb to the slaughter, and as a sheep before its shearers is silent, so he did not open his mouth." (Bible, Isaiah 53:7)
 
 This is a historic occurrence, and I know that – living in 2024 – I have to position myself to this. I came to the decision to allow these facts and the God of Jesus to change my life.
-I have seen and experienced myself that His principles actually work." type="primary" %}
+I have seen and experienced myself that His principles actually work.
 
 Thus, the Bible school and program that I attend fit perfectly to A) invest in my character and values, and to B) develop practical leadership skills.
 
@@ -73,66 +73,50 @@ The Bible school already ends in two weeks :/. After two and a half weeks in New
 <table>
   <tr>
     <td>
-      {% include lightbox.html src="2024q3/P_20240717_142523.jpg" data="group" title="Strand" %}
+      {% include lightbox.html src="2024q3/2024-08-25/P_20240807_174121.jpg" data="group" title="Sonnenuntergang" %}
     </td>
     <td>
-      {% include lightbox.html src="2024q3/P_20240718_070946.jpg" data="group" title="Sonnenaufgang mit Nebel" %}
-    </td>
-  </tr>
-  <tr>
-    <td>
-      Strand
-    </td>
-    <td>
-      Sonnenaufgang mit Nebel
+      {% include lightbox.html src="2024q3/2024-08-25/PXL_20240808_203706655.MP.jpg" data="group" title="Früh aufstehen zum Joggen gehen lohnt sich!" %}
     </td>
   </tr>
   <tr>
     <td>
-      {% include lightbox.html src="2024q3/P_20240719_163457.jpg" data="group" title="Mit Jacke - Winter in den Southern Highlands" %}
+      Sonnenuntergang
     </td>
     <td>
-      {% include lightbox.html src="2024q3/P_20240722_065145_bearbeitet.jpg" data="group" title="Bunter Sonnenaufgang" %}
-    </td>
-  </tr>
-  <tr>
-    <td>
-      Mit Jacke - Winter in den Southern Highlands
-    </td>
-    <td>
-      Bunter Sonnenaufgang
+      Früh aufstehen zum Joggen gehen lohnt sich!
     </td>
   </tr>
   <tr>
     <td>
-      {% include lightbox.html src="2024q3/P_20240803_125432.jpg" data="group" title="Wanderung zwischen Felsen ..." %}
+      {% include lightbox.html src="2024q3/2024-08-25/P_20240811_122409.jpg" data="group" title="Snookertisch" %}
     </td>
     <td>
-      {% include lightbox.html src="2024q3/P_20240803_140109.jpg" data="group" title="... am Fluss ..." %}
-    </td>
-  </tr>
-  <tr>
-    <td>
-      Wanderung zwischen Felsen ...
-    </td>
-    <td>
-      ... am Fluss ...
+      {% include lightbox.html src="2024q3/2024-08-25/P_20240812_100709.jpg" data="group" title="Fahrradtour: 70km und 1000 Höhenmeter. Der Anfang lief noch ganz gut..." %}
     </td>
   </tr>
   <tr>
     <td>
-      {% include lightbox.html src="2024q3/P_20240803_150101.jpg" data="group" title="... bis zum Wasserfall" %}
+      Snookertisch
     </td>
     <td>
-      {% include lightbox.html src="2024q3/P1000093.JPG" data="group" title="Blick über das Tal" %}
+      Fahrradtour: 70km und 1000 Höhenmeter. Der Anfang lief noch ganz gut...
     </td>
   </tr>
   <tr>
     <td>
-      ... bis zum Wasserfall
+      {% include lightbox.html src="2024q3/2024-08-25/P_20240823_063834.jpg" data="group" title="Noch ein Sonnenaufgang mit Nebel" %}
     </td>
     <td>
-      Blick über das Tal
+      {% include lightbox.html src="2024q3/2024-08-25/P_20240824_120134.jpg" data="group" title="Strandtag mit Surfen" %}
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Noch ein Sonnenaufgang mit Nebel
+    </td>
+    <td>
+      Strandtag mit Surfen
     </td>
   </tr>
 </table>
