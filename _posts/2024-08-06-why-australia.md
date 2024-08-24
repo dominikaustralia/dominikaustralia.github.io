@@ -3,7 +3,7 @@ categories: info
 # tags: 
 ---
 
-## Warum nach Australien? 🙈
+## Why Australia? 🙈
 Zuerst kommt das englische Original, unten findet sich die [deutsche Version](#deutsch). Dazwischen kommen ein paar [Bilder](#bilder).
 
 ---
@@ -35,21 +35,78 @@ According to this, all our ministers (present and past) are absolutely trustwort
 Big words: Wisdom. "So help me God"?
 Read it again: Wisdom. What is wisdom? What does it mean to act wisely in today’s world? And "So help me God"? Why would people ask God to help them?
 
-Today’s world needs wise leaders. And one "goal of a good leader should be to bring people together, not to divide them" (quote from a lecturer at Bible school). This is what our polarized society needs right now more than many other things. A recent example with potential to divide western society and Christians (after all still a huge community with [2.38 billion people](https://worldpopulationreview.com/country-rankings/most-christian-countries)) was the opening ceremony of the Olympic games (find a sober comment on the background and a [sharp analysis by Johannes Hartl](https://www.youtube.com/watch?v=GU3ECj57omw). Many Christians felt mocked by a depiction of "The Last Supper", so in fact the show did not send a "message of love, a message of inclusion and not at all to divide", as the [creative director assured](https://www.cbsnews.com/news/paris-olympics-organizers-apologize-last-supper-tableau-religious-conservatives/). How then can leaders serve to bring people together? Why might this also be important for Non-leaders? To be continued...
+Today’s world needs wise leaders. And one "goal of a good leader should be to bring people together, not to divide them" (Grant Weber, speaker at Bible school). This is what our polarized society needs right now more than many other things. A recent example with potential to divide western society and Christians (after all still a huge community with [2.38 billion people](https://worldpopulationreview.com/country-rankings/most-christian-countries)) was the opening ceremony of the Olympic games (find a sober comment on the background and a [sharp analysis by Johannes Hartl](https://www.youtube.com/watch?v=GU3ECj57omw)). Many Christians felt mocked by a depiction of "The Last Supper", so in fact the show did not send a "message of love, a message of inclusion and not at all to divide", as the [creative director assured](https://www.cbsnews.com/news/paris-olympics-organizers-apologize-last-supper-tableau-religious-conservatives/). How then can leaders serve to bring people together? Why might this also be important for Non-leaders? To be continued...
 
 
 ---
 # Bilder
 
-|![Strand](/assets/images/2024q3/P_20240717_142523.jpg){:width="100%"}|![Sonnenaufgang mit Nebel](/assets/images/2024q3/P_20240718_070946.jpg){:width="100%"}|
-|---|---|
-| Strand | Sonnenaufgang mit Nebel |
-|![Mit Jacke](/assets/images/2024q3/P_20240719_163457.jpg){:width="100%"}|![Bunter Sonnenaufgang](/assets/images/2024q3/P_20240722_065145_bearbeitet.jpg){:width="100%"}|
-| Mit Jacke - Winter in den Southern Highlands | Bunter Sonnenaufgang |
-|![Felsen](/assets/images/2024q3/P_20240803_125432.jpg){:width="100%"} | ![River](/assets/images/2024q3/P_20240803_140109.jpg){:width="100%"} |
-| Wanderung zwischen Felsen ... | ... am Fluss ... |
-|![Wasserfall](/assets/images/2024q3/P_20240803_150101.jpg){:width="100%"} | ![Tal](/assets/images/2024q3/P1000093.JPG){:width="100%"} |
-| ... bis zum Wasserfall | Blick über das Tal |
+<table>
+  <tr>
+    <td>
+      {% include lightbox.html src="2024q3/P_20240717_142523.jpg" data="group" title="Strand" %}
+    </td>
+    <td>
+      {% include lightbox.html src="2024q3/P_20240718_070946.jpg" data="group" title="Sonnenaufgang mit Nebel" %}
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Strand
+    </td>
+    <td>
+      Sonnenaufgang mit Nebel
+    </td>
+  </tr>
+  <tr>
+    <td>
+      {% include lightbox.html src="2024q3/P_20240719_163457.jpg" data="group" title="Mit Jacke - Winter in den Southern Highlands" %}
+    </td>
+    <td>
+      {% include lightbox.html src="2024q3/P_20240722_065145_bearbeitet.jpg" data="group" title="Bunter Sonnenaufgang" %}
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Mit Jacke - Winter in den Southern Highlands
+    </td>
+    <td>
+      Bunter Sonnenaufgang
+    </td>
+  </tr>
+  <tr>
+    <td>
+      {% include lightbox.html src="2024q3/P_20240803_125432.jpg" data="group" title="Wanderung zwischen Felsen ..." %}
+    </td>
+    <td>
+      {% include lightbox.html src="2024q3/P_20240803_140109.jpg" data="group" title="... am Fluss ..." %}
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Wanderung zwischen Felsen ...
+    </td>
+    <td>
+      ... am Fluss ...
+    </td>
+  </tr>
+  <tr>
+    <td>
+      {% include lightbox.html src="2024q3/P_20240803_150101.jpg" data="group" title="... bis zum Wasserfall" %}
+    </td>
+    <td>
+      {% include lightbox.html src="2024q3/P1000093.JPG" data="group" title="Blick über das Tal" %}
+    </td>
+  </tr>
+  <tr>
+    <td>
+      ... bis zum Wasserfall
+    </td>
+    <td>
+      Blick über das Tal
+    </td>
+  </tr>
+</table>
 
 ---
 # Deutsch
@@ -62,7 +119,7 @@ Today’s world needs wise leaders. And one "goal of a good leader should be to 
 
 Jeder freut sich über gute Führungskräfte/Leiter! Eine gute Führungspersönlichkeit inspiriert mit Charisma, trifft schwierige, aber weise Entscheidungen und ist locker und kann humorvoll sein. Ich durfte gute Leiter kennenlernen, einen sogar schon als Teenager.
 
-Im Jahr 2015 war ich mit Freunden aus unserer Gemeinde auf der christlichen Konferenz "BUJU" in Erfurt. Die Band [planetshakers gab ein Konzert](https://www.teensmag.net/planetshakers-im-outback-mit-gott/) und mir hat ihre Musik sehr gut gefallen. Da ich zu spät dran war, um meine CD signieren zu lassen, folgten ein Freund und ich der Band, die gerade auf dem Weg in den Backstage-Bereich war. Ihr fantastischer [Bassist](https://fbass.com/artists/josh-ham/) bemerkte uns, drehte sich um und kam zu uns, um uns zu begrüßen. Ich fühlte mich sehr geehrt, ein unbedeutender Junge, der von einem Musiker, der um die Welt tourt, beachtet wird! Ich erinnere mich noch sehr gut an diesen Moment. Für ihn war es vielleicht keine schwierige Entscheidung, aber sie zeigte seine Werte. Er wertschätzte andere Menschen und hatte Freude daran, mich und meinen Freund glücklich zu machen. Für mich war das der Beginn, immer die neuen Songs zu hören, und später begann ich, auch ihre [Video-Podcasts über Audio-Recording und -Mixing] (https://www.youtube.com/watch?v=jYGgO0fu0xw&list=PL0kqYcuVaf64VyDhAnJzpOIB2bJn9UqVh) anzuschauen. Ich mache wirklich gerne Musik, und dies mit technischem Wissen zu verbinden, hat mir viel Spaß gemacht. Seitdem dachte ich: "Vielleicht könnte ich eines Tages bei der jährlichen planetshakers-Konferenz in Australien dabei sein?" Diese Idee war wie ein Floh im Ohr. Aber es gibt mehr Gründe, nach Australien zu kommen, als nur eine Konferenz zu besuchen.
+Im Jahr 2015 war ich mit Freunden aus unserer Gemeinde auf der christlichen Konferenz "BUJU" in Erfurt. Die Band [planetshakers gab ein Konzert](https://www.teensmag.net/planetshakers-im-outback-mit-gott/) und mir hat ihre Musik sehr gut gefallen. Da ich zu spät dran war, um meine CD signieren zu lassen, folgten ein Freund und ich der Band, die gerade auf dem Weg in den Backstage-Bereich war. Ihr fantastischer [Bassist](https://fbass.com/artists/josh-ham/) bemerkte uns, drehte sich um und kam zu uns, um uns zu begrüßen. Ich fühlte mich sehr geehrt, ein unbedeutender Junge, der von einem Musiker, der um die Welt tourt, beachtet wird! Ich erinnere mich noch sehr gut an diesen Moment. Für ihn war es vielleicht keine schwierige Entscheidung, aber sie zeigte seine Werte. Er wertschätzte andere Menschen und hatte Freude daran, mich und meinen Freund glücklich zu machen. Für mich war das der Beginn, immer die neuen Songs zu hören, und später begann ich, auch ihre [Video-Podcasts über Audio-Recording und -Mixing](https://www.youtube.com/watch?v=jYGgO0fu0xw&list=PL0kqYcuVaf64VyDhAnJzpOIB2bJn9UqVh) anzuschauen. Ich mache wirklich gerne Musik, und dies mit technischem Wissen zu verbinden, hat mir viel Spaß gemacht. Seitdem dachte ich: "Vielleicht könnte ich eines Tages bei der jährlichen planetshakers-Konferenz in Australien dabei sein?" Diese Idee war wie ein Floh im Ohr. Aber es gibt mehr Gründe, nach Australien zu kommen, als nur eine Konferenz zu besuchen.
 
 Seit meiner Jugend hatte ich selbst einige Gelegenheiten zu "leiten": den wöchentlichen Klassenrat, bei jährlichen Kinder- und Jugendfreizeiten, bei der Organisation wöchentlicher Treffen junger Erwachsener in unserer Gemeinde und bei anderen Gelegenheiten. Ich habe mich immer gefragt: "Mache ich meine Sache gut?" und "Was sollte ich vielleicht anders machen?". Das Lernen von Vorbildern und eigene Erfahrungen sind meiner Meinung nach am effektivsten. Am besten in Kombination mit intellektuellen Einsichten. Wo könnte ich das also finden? Wie könnte ich ein besserer Leiter werden - nicht für mich selbst, sondern um andere Menschen besser zu führen, um ihrer selbst willen? Ich wusste, dass ich nach meinem Studienabschluss gerne einige Zeit darin investieren wollte, an meinen Führungsqualitäten zu feilen. Aber gleichzeitig hatte ich auch Lust, bewusst ein Jahr mit Gott zu verbringen, bevor die "40-Jahre-Arbeit" beginnen 😂. Das Ergebnis meiner eigenen Überlegungen und der Ermutigung durch andere (und Gottes Führung) war:
 
@@ -84,4 +141,4 @@ Demnach sind alle unsere Minister (aktuelle und frühere) absolut vertrauenswür
 Große Worte: Weisheit. "So wahr mir Gott helfe"?
 Lies es noch einmal: Weisheit. Was ist Weisheit? Was bedeutet es, in der heutigen Welt weise zu handeln? Und "So wahr mir Gott helfe"? Warum sollten die Menschen Gott um Hilfe bitten?
 
-Die Welt von heute braucht weise Führer. Und ein "Ziel einer guten Führungspersönlichkeit sollte es sein, Menschen zusammenzubringen, nicht sie zu spalten" (Zitat eines Dozenten hier an der Bibelschule). Das ist es, was unsere polarisierte Gesellschaft im Moment mehr braucht als vieles andere. Ein aktuelles Beispiel mit Spaltungspotenzial für die westliche Gesellschaft und die Christen (immerhin mit [2,38 Milliarden Menschen](https://worldpopulationreview.com/country-rankings/most-christian-countries)) war die Eröffnungsfeier der Olympischen Spiele (eine [scharfe Analyse von Johannes Hartl](https://www.youtube.com/watch?v=GU3ECj57omw) gibt es hier). Viele Christen fühlten sich durch die Darstellung des "Letzten Abendmahls" verhöhnt, so dass die grandiose Show in der Praxis keine "Botschaft der Liebe, eine Botschaft der Integration und keineswegs der Spaltung" vermittelte, wie der [kreative Direktor versicherte](https://www.cbsnews.com/news/paris-olympics-organizers-apologize-last-supper-tableau-religious-conservatives/). Wie also können Führungskräfte dazu dienen, Menschen zusammenzubringen? Warum könnte dies auch für Nicht-Führungskräfte wichtig sein? Fortsetzung folgt...
+Die Welt von heute braucht weise Führer. Und ein "Ziel einer guten Führungspersönlichkeit sollte es sein, Menschen zusammenzubringen, nicht sie zu spalten" (Grant Weber, Sprecher an der Bibelschule). Das ist es, was unsere polarisierte Gesellschaft im Moment mehr braucht als vieles andere. Ein aktuelles Beispiel mit Spaltungspotenzial für die westliche Gesellschaft und die Christen (immerhin mit [2,38 Milliarden Menschen](https://worldpopulationreview.com/country-rankings/most-christian-countries)) war die Eröffnungsfeier der Olympischen Spiele (eine [scharfe Analyse von Johannes Hartl](https://www.youtube.com/watch?v=GU3ECj57omw) gibt es hier). Viele Christen fühlten sich durch die Darstellung des "Letzten Abendmahls" verhöhnt, so dass die grandiose Show in der Praxis keine "Botschaft der Liebe, eine Botschaft der Integration und keineswegs der Spaltung" vermittelte, wie der [kreative Direktor versicherte](https://www.cbsnews.com/news/paris-olympics-organizers-apologize-last-supper-tableau-religious-conservatives/). Wie also können Führungskräfte dazu dienen, Menschen zusammenzubringen? Warum könnte dies auch für Nicht-Führungskräfte wichtig sein? Fortsetzung folgt...
