@@ -196,7 +196,7 @@ Daher passen die Bibelschule und das Programm, das ich besuche, perfekt, um A) i
 ## Was mache ich in einer Bibelschule?
 Zusammen mit acht anderen Studenten leben wir auf einem Grundstück, zu dem ein Haupthaus, ein kleiner Konferenzsaal, mehrere Schuppen (einer davon mit einem Snookertisch) und Hütten für die Unterbringung gehören. Auch ein Teil der Mitarbeiter und Freiwilligen wohnt auf dem Gelände. Gerne gebe ich einen kleinen Einblick, wie unsere Wochen hier aussehen.
 
-% {% include lightbox.html src="2024q3/2024-08-25/ScheduleWeek7.PNG" data="group" title="Wochenplan 7" %}
+{% include lightbox.html src="2024q3/2024-08-25/ScheduleWeek7.PNG" data="group" title="Wochenplan 7" %}
 
 Wir haben Unterrichtseinheiten über die Bibel, Vorträge über Leiterschaft und praktische Aufgaben. Außerdem müssen wir wöchentliche Abgaben ausarbeiten, recherchieren, ein Buch über Leiterschaft lesen und darüber diskutieren ([Geistliche Leiterschaft von J. Oswald Sanders](https://www.perlego.com/book/3900793/spiritual-leadership-principles-of-excellence-for-every-believer-pdf)) und verschiedene Vorträge halten.
 
