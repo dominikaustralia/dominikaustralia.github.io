@@ -3,40 +3,63 @@ categories: info
 # tags: 
 ---
 
-## Why Australia? 🙈
+## Leadership and God?
 Zuerst kommt das englische Original, unten findet sich die [deutsche Version](#deutsch). Dazwischen kommen ein paar [Bilder](#bilder).
 
 ---
-**Sum-up:** Many people ask me: "Why Australia? This is so far away!" Get to know my reasons to travel around half the world and what I got to learn in the recent weeks.
+**Sum-up:** What significance does the question of god have concerning leadership? Get to know about my most foundational belief, and the two pillars of leadership.
 
 ---
 
-Everyone enjoys being around a good leader! A good leader inspires with charism, takes difficult but wise decisions, and is easy-going and fun. I got to meet some of these, and one already as a teenage boy.
+Last time we concluded that the
+> goal of a good leader should be to bring people together, not to divide them.
 
-Back in 2015 me and friends of our church went to the Christian conference "BUJU" at Erfurt. The band [planetshakers gave a concert](https://www.teensmag.net/planetshakers-im-outback-mit-gott/) and I really enjoyed their music. Being late for getting my CD signed, a friend and I followed the band which was just heading for the backstage area. Their fantastic [bassist](https://fbass.com/artists/josh-ham/) noticed us, turned around and came to greet us. I felt very honoured, an insignificant boy minded by a musician who tours the world! I still remember this moment very well. For him, it might not have been a difficult decision, but it showed the values that this leader had. He valued other people and had joy to make us happy. For me this was the very start to follow their new song releases, and later I started to watch their [video podcasts about sound recording and production](https://www.youtube.com/watch?v=jYGgO0fu0xw&list=PL0kqYcuVaf64VyDhAnJzpOIB2bJn9UqVh). I really like to make music and pairing this with getting tech knowledge sparked my interest. Ever since I thought, "Maybe one day I could attend their yearly conference in Australia?!" This idea was like a bee in my bonnet. But I got more reasons to come to Australia than to visit a conference.
+How then can leaders serve to bring people together? Why might this also be important for non-leaders? The answer lies in: values. And we remember these big words: Wisdom, "So help me God"?
 
-Grown up, I myself got some opportunities to "lead": at weekly class councils, at yearly kids and youth camps, by organising weekly young adults’ meetings at church, and at other occasions. I always liked to ask myself: "Am I doing a good job?", and "What should I maybe do differently?". I believe learning from examples and firsthand experience are most effective. Best in combination with intellectual insights. So where could I find this? How could I become a better leader – not for myself – but to lead other people better for their sake? I knew that I'd like to spend some time after my graduation for investing in my leadership skills. But at the same time, I thought that intentionally spending a year with God would be great too, before the "40-years-of-work" begin 😂. Fast forward, what came out of my considerations and encouragement by others (and God's leading) was:
+Let me give you some statements that you might have already heard:
+* Leadership has much to do with _influence_.
+* Everyone – and that includes _You_ – has influence: in your own life (e.g. use of leisure time), and in others' lives (e.g. behaviour towards other people). 
+* Leaders in a _position_ have _(positional) power_, for example over budgets, employees, and decisions.
+* Power and influence are not the same. "Power _demands_ respect. Influence _inspires_ respect." (Callum Thomas, Principal of the Bible school Capernwray Australia)
+Being aware of both your power and your influence are necessary to use them wisely.
 
-I'd like to...
-* attend [planetshakers](https://www.planetshakers.com/) church, participate as a volunteer and get firsthand experience of good leadership (another inspiring podcast is their [youth leadership podcast](https://www.youtube.com/playlist?list=PLx45UQb_qYPG-orL6HCpHsygjJIeWMK-z)).
-* further develop my English skills.
-* find and try out jobs that suit my education as a mathematician: (mathematical) consulting, programming, engineering.
-* experience what it means to relocate to a different country ("Might working as a missionary suit me?").
-* challenge myself by letting go my "German need for security".
-* The world is open to me (and no insurances or a home hold me back), so why not?!
-* Above all these reasons, my desire is that people fully experience the overflowing live that we can have in Jesus. And I ask myself, "How can I contribute to this?".
+**You yourself must decide: What do you use your power and influence for? For your own good, or for the good of others? Do you try to find a balance? Take a moment to think about this. What do you use your power and influence for, for yourself, or for others?**
 
-My leading objective for this year is – besides clarity about future steps of employment – to learn how I can become a better leader. A leader whose life points to God.
+Every difficult situation requires you to decide anew: Should I use _my_ power and influence foremost for myself or _for others_? It depends on your values how you decide.
 
-## The Lack of Good Leaders
-Being a good leader is obviously not about talking talks, but about actually doing "the right thing". The German oath of office goes like [this](https://de.wikipedia.org/wiki/Amtseid#Bundesrepublik_Deutschland): „Ich schwöre, dass ich meine Kraft dem Wohle des deutschen Volkes widmen, seinen Nutzen mehren, Schaden von ihm wenden, das Grundgesetz und die Gesetze des Bundes wahren und verteidigen, meine Pflichten gewissenhaft erfüllen und Gerechtigkeit gegen jedermann üben werde. So wahr mir Gott helfe.“ (en: "I swear that I will dedicate my strength to the welfare of the German people, increase its benefit, avert harm from it, uphold and defend the Constitution and the laws of the Federation, fulfil my duties conscientiously and do justice to everyone. So help me God.")
-According to this, all our ministers (present and past) are absolutely trustworthy and exemplary leaders, right? Unfortunately not, we would all like to have politicians who have more wisdom, have backbone, and stand out with innovative and practicable ideas and approachability.
+## Pillars of Leadership: Skills and Values
+We can think of leadership qualities in terms of skills and values. A leader can have a high amount or a low amount of skills. And a leader can have a high standard regarding values or a low standard.
 
-Big words: Wisdom. "So help me God"?
-Read it again: Wisdom. What is wisdom? What does it mean to act wisely in today’s world? And "So help me God"? Why would people ask God to help them?
+{% include lightbox.html src="2024q3/2024-08-25/Skills-vs-Values.PNG" data="group" title="Skills and Values" %}
 
-Today’s world needs wise leaders. And one "goal of a good leader should be to bring people together, not to divide them" (Grant Weber, speaker at Bible school). This is what our polarized society needs right now more than many other things. A recent example with potential to divide western society and Christians (after all still a huge community with [2.38 billion people](https://worldpopulationreview.com/country-rankings/most-christian-countries)) was the opening ceremony of the Olympic games (find a sober comment on the background and a [sharp analysis by Johannes Hartl](https://www.youtube.com/watch?v=GU3ECj57omw)). Many Christians felt mocked by a depiction of "The Last Supper", so in fact the show did not send a "message of love, a message of inclusion and not at all to divide", as the [creative director assured](https://www.cbsnews.com/news/paris-olympics-organizers-apologize-last-supper-tableau-religious-conservatives/). How then can leaders serve to bring people together? Why might this also be important for Non-leaders? To be continued...
+A) Low-Low leaders drag down their people because they are ineffective. B) High-skill-low-value leaders tend to manipulate their people. C) Low-skill-high-value leaders have good motives but cannot help their people. D) High-high leaders live up to their responsibility through moral principles coupled with the ability to implement them.
+Where would you like to see yourself? Hopefully in quadrant D): High skills and high values.
 
+## But where do you get your moral principles from?
+Either from natural sciences and an evolutionary worldview ("survival of the fittest"), or from philosophy without a God, or from a religion, or from a person?
+* The French philosopher and author Albert Camus wrote that ["life is ultimately an absurd and purposeless affair"](https://www.thecollector.com/albert-camus-meaning-of-life/), because of its inexplicable suffering and misery in the world. The question might arise: Why acting according to ethical standards at all?
+* The German philosopher Immanuel Kant proposed to ["act only in accordance with that maxim through which _you_ can at the same time will that it become a universal law."](https://www.gotquestions.org/categorical-imperative.html) This ethics is grounded in the individual's conscience, hoping that human goodwill would prevail. Oftentimes, this standard fails because "the fittest" acts differently and tries to exploit the weak.
+* Many religions have collected more or less rules of behaviour and create a framework for what is "right" or "wrong".
+* I believe, the ultimate ethics were lived by Jesus Christ, whom the Bible talks about. I am supremely inspired by Him. His example touches my heart, and I am convinced by examples of success of people who act completely different to what we normally see around us. I want to be part of His upside-down movement.
+ 
+callout
+
+Thus, the Bible school and program that I attend fit perfectly to A) invest in my character and values, and to B) develop practical leadership skills.
+
+**Without God, we lack a steady basis for moral principles. And to acknowledge Him is the first step into wisdom.**
+
+## What do I do at a Bible school?
+Together with eight other students we live together on a property which includes a _main house_, a small _conference hall_, several sheds (one with a snooker table), and cabins for accommodation. Also, part of the staff and volunteers live on site.
+Let me introduce you to how our weeks look like.
+
+{% include lightbox.html src="2024q3/2024-08-25/ScheduleWeek7.PNG" data="group" title="Schedule Week 7" %}
+
+We have lectures about the Bible, lectures about leadership, and practical tasks. Further, we need to write weekly assignments, do research, participate in a weekly book study ([Spiritual leadership by J. Oswald Sanders](https://www.perlego.com/book/3900793/spiritual-leadership-principles-of-excellence-for-every-believer-pdf)), and give several presentations.
+
+Stay tuned for bite-sized leadership take-aways that are to come...
+
+## Future steps
+The Bible school already ends in two weeks :/. After two and a half weeks in New Zealand (road trip on the southern island with other students from Bible school) I'll return to Australia and freelance as an IT-Consultant.
 
 ---
 # Bilder
@@ -44,10 +67,10 @@ Today’s world needs wise leaders. And one "goal of a good leader should be to 
 <table>
   <tr>
     <td>
-      {% include lightbox.html src="2024q3/2024-08-06/P_20240717_142523.jpg" data="group" title="Strand" %}
+      {% include lightbox.html src="2024q3/P_20240717_142523.jpg" data="group" title="Strand" %}
     </td>
     <td>
-      {% include lightbox.html src="2024q3/2024-08-06/P_20240718_070946.jpg" data="group" title="Sonnenaufgang mit Nebel" %}
+      {% include lightbox.html src="2024q3/P_20240718_070946.jpg" data="group" title="Sonnenaufgang mit Nebel" %}
     </td>
   </tr>
   <tr>
@@ -60,10 +83,10 @@ Today’s world needs wise leaders. And one "goal of a good leader should be to 
   </tr>
   <tr>
     <td>
-      {% include lightbox.html src="2024q3/2024-08-06/P_20240719_163457.jpg" data="group" title="Mit Jacke - Winter in den Southern Highlands" %}
+      {% include lightbox.html src="2024q3/P_20240719_163457.jpg" data="group" title="Mit Jacke - Winter in den Southern Highlands" %}
     </td>
     <td>
-      {% include lightbox.html src="2024q3/2024-08-06/P_20240722_065145_bearbeitet.jpg" data="group" title="Bunter Sonnenaufgang" %}
+      {% include lightbox.html src="2024q3/P_20240722_065145_bearbeitet.jpg" data="group" title="Bunter Sonnenaufgang" %}
     </td>
   </tr>
   <tr>
@@ -76,10 +99,10 @@ Today’s world needs wise leaders. And one "goal of a good leader should be to 
   </tr>
   <tr>
     <td>
-      {% include lightbox.html src="2024q3/2024-08-06/P_20240803_125432.jpg" data="group" title="Wanderung zwischen Felsen ..." %}
+      {% include lightbox.html src="2024q3/P_20240803_125432.jpg" data="group" title="Wanderung zwischen Felsen ..." %}
     </td>
     <td>
-      {% include lightbox.html src="2024q3/2024-08-06/P_20240803_140109.jpg" data="group" title="... am Fluss ..." %}
+      {% include lightbox.html src="2024q3/P_20240803_140109.jpg" data="group" title="... am Fluss ..." %}
     </td>
   </tr>
   <tr>
@@ -92,10 +115,10 @@ Today’s world needs wise leaders. And one "goal of a good leader should be to 
   </tr>
   <tr>
     <td>
-      {% include lightbox.html src="2024q3/2024-08-06/P_20240803_150101.jpg" data="group" title="... bis zum Wasserfall" %}
+      {% include lightbox.html src="2024q3/P_20240803_150101.jpg" data="group" title="... bis zum Wasserfall" %}
     </td>
     <td>
-      {% include lightbox.html src="2024q3/2024-08-06/P1000093.JPG" data="group" title="Blick über das Tal" %}
+      {% include lightbox.html src="2024q3/P1000093.JPG" data="group" title="Blick über das Tal" %}
     </td>
   </tr>
   <tr>
@@ -110,35 +133,66 @@ Today’s world needs wise leaders. And one "goal of a good leader should be to 
 
 ---
 # Deutsch
-## Warum nach Australien? 🙈
+## Leiterschaft und Gott?
 
 ---
-**In Kürze:** Viele Leute fragen mich: "Warum Australien? Das ist doch so weit weg!" Hier erfährst du, warum ich um die halbe Welt reise und was ich in den letzten Wochen gelernt habe.
+**In Kürze:** Welche Bedeutung hat die Frage nach Gott im Bezug auf Leiterschaft? Erfahre mehr über meine grundlegendste Überzeugung und die beiden Standbeine von Leiterschaft.
 
 ---
 
-Jeder freut sich über gute Führungskräfte/Leiter! Eine gute Führungspersönlichkeit inspiriert mit Charisma, trifft schwierige, aber weise Entscheidungen und ist locker und kann humorvoll sein. Ich durfte gute Leiter kennenlernen, einen sogar schon als Teenager.
+Letztes Mal kamen wir zu folgender Aussage:
+> Das Ziel einer guten Führungspersönlichkeit sollte es sein, Menschen zusammenzubringen, nicht sie zu trennen.
 
-Im Jahr 2015 war ich mit Freunden aus unserer Gemeinde auf der christlichen Konferenz "BUJU" in Erfurt. Die Band [planetshakers gab ein Konzert](https://www.teensmag.net/planetshakers-im-outback-mit-gott/) und mir hat ihre Musik sehr gut gefallen. Da ich zu spät dran war, um meine CD signieren zu lassen, folgten ein Freund und ich der Band, die gerade auf dem Weg in den Backstage-Bereich war. Ihr fantastischer [Bassist](https://fbass.com/artists/josh-ham/) bemerkte uns, drehte sich um und kam zu uns, um uns zu begrüßen. Ich fühlte mich sehr geehrt, ein unbedeutender Junge, der von einem Musiker, der um die Welt tourt, beachtet wird! Ich erinnere mich noch sehr gut an diesen Moment. Für ihn war es vielleicht keine schwierige Entscheidung, aber sie zeigte seine Werte. Er wertschätzte andere Menschen und hatte Freude daran, mich und meinen Freund glücklich zu machen. Für mich war das der Beginn, immer die neuen Songs zu hören, und später begann ich, auch ihre [Video-Podcasts über Audio-Recording und -Mixing](https://www.youtube.com/watch?v=jYGgO0fu0xw&list=PL0kqYcuVaf64VyDhAnJzpOIB2bJn9UqVh) anzuschauen. Ich mache wirklich gerne Musik, und dies mit technischem Wissen zu verbinden, hat mir viel Spaß gemacht. Seitdem dachte ich: "Vielleicht könnte ich eines Tages bei der jährlichen planetshakers-Konferenz in Australien dabei sein?" Diese Idee war wie ein Floh im Ohr. Aber es gibt mehr Gründe, nach Australien zu kommen, als nur eine Konferenz zu besuchen.
+Wie können Leiter also dazu beitragen, Menschen zusammenzubringen? Warum ist dies auch für Leute wichtig, die keine formale Führungsposition haben? Die Antwort hängt damit zusammen: Werte. Und warum beim letzten Mal diese großen Worte: Weisheit, „So wahr mir Gott helfe“?
 
-Seit meiner Jugend hatte ich selbst einige Gelegenheiten zu "leiten": den wöchentlichen Klassenrat, bei jährlichen Kinder- und Jugendfreizeiten, bei der Organisation wöchentlicher Treffen junger Erwachsener in unserer Gemeinde und bei anderen Gelegenheiten. Ich habe mich immer gefragt: "Mache ich meine Sache gut?" und "Was sollte ich vielleicht anders machen?". Das Lernen von Vorbildern und eigene Erfahrungen sind meiner Meinung nach am effektivsten. Am besten in Kombination mit intellektuellen Einsichten. Wo könnte ich das also finden? Wie könnte ich ein besserer Leiter werden - nicht für mich selbst, sondern um andere Menschen besser zu führen, um ihrer selbst willen? Ich wusste, dass ich nach meinem Studienabschluss gerne einige Zeit darin investieren wollte, an meinen Führungsqualitäten zu feilen. Aber gleichzeitig hatte ich auch Lust, bewusst ein Jahr mit Gott zu verbringen, bevor die "40-Jahre-Arbeit" beginnen 😂. Das Ergebnis meiner eigenen Überlegungen und der Ermutigung durch andere (und Gottes Führung) war:
+Bestimmt hast Du schon die ein oder andere der folgenden Aussagen gehört:
+* Leiterschaft hat viel mit _Einfluss_ zu tun.
+* Jeder Mensch - und dazu gehörst _Du_ - hat Einfluss: auf das eigene Leben (z.B. Gestaltung von freier Zeit) und auf das Leben anderer (z.B. Verhalten gegenüber anderen Menschen). 
+* Führungskräfte in einer _Position_ haben _positionelle Macht_, zum Beispiel über Budgets, Mitarbeiter und Entscheidungen.
+* Macht und Einfluss sind nicht dasselbe. "Macht _verlangt_ Respekt. Einfluss _inspiriert_ Respekt." (Callum Thomas, Leiter der Bibelschule Capernwray Australien)
+Wer sich seiner Macht und seines Einflusses bewusst ist, kann sie weise nutzen.
 
-Ich würde gerne...
-* die [planetshakers](https://www.planetshakers.com/) Gemeinde besuchen, als Freiwilliger mitarbeiten und Erfahrungen mit guten Leitern aus erster Hand sammeln (ihr [youth leadership podcast](https://www.youtube.com/playlist?list=PLx45UQb_qYPG-orL6HCpHsygjJIeWMK-z) hat mich auch sehr inspiriert).
-* meine Englischkenntnisse weiter ausbauen und Auslandserfahrung sammeln.
-* Jobs finden und ausprobieren, die zu meiner Ausbildung als Mathematiker passen: (mathematische) Beratung, Programmierung, Ingenieurwesen.
-* erfahren, was es bedeutet, in ein anderes Land umzuziehen ("Könnte die Arbeit als Missionar zu mir passen?").
-* mich selbst herausfordern, indem ich mein "deutsches Sicherheitsbedürfnis" loslasse.
-* Die Welt steht mir offen (und keine Versicherungen oder ein Haus halten mich zurück), warum also nicht?!
-* Über all diesen Gründen steht mein Wunsch, dass Menschen das überfließende Leben, das wir in Jesus haben können, in vollem Umfang erfahren. Und ich frage mich: "Wie kann ich dazu beitragen?".
+**Du selbst musst entscheiden: Wofür setzt Du Deine Macht und Deinen Einfluss ein? Für eigene Interessen oder für das Wohl anderer? Versuchst Du, ein Gleichgewicht zu finden? Nimm Dir einen Moment Zeit, um darüber nachzudenken. Wofür setzt Du Deine Macht und Deinen Einfluss ein, für dich selbst oder für andere?**
 
-Mein Hauptziel für dieses Jahr ist - neben der Klarheit über künftige Karriereschritte - zu lernen, wie ich ein besserer Leiter werden kann. Ein Leiter, dessen Leben auf Gott hinweist.
+Jede schwierige Situation verlangt von neuem eine Entscheidung: Soll ich _meine_ Macht und meinen Einfluss in erster Linie für mich oder _für andere_ einsetzen? Es hängt von Deinen Werten ab, wie Du Dich entscheidest.
 
-## Der Mangel an guten Führungskräften
-Eine gute Führungskraft zu sein, bedeutet offensichtlich nicht, dass man nur redet, sondern dass man tatsächlich "das Richtige" tut. Der deutsche Amtseid lautet [wie folgt](https://de.wikipedia.org/wiki/Amtseid#Bundesrepublik_Deutschland): "Ich schwöre, dass ich meine Kraft dem Wohle des deutschen Volkes widmen, seinen Nutzen mehren, Schaden von ihm wenden, das Grundgesetz und die Gesetze des Bundes wahren und verteidigen, meine Pflichten gewissenhaft erfüllen und Gerechtigkeit gegen jedermann üben werde. So wahr mir Gott helfe."
-Demnach sind alle unsere Minister (aktuelle und frühere) absolut vertrauenswürdige und vorbildliche Leiter, oder? Leider nicht, wir alle wünschen uns Politiker, die mehr Weisheit besitzen, Rückgrat haben und sich durch innovative und praktikable Ideen und Nahbarkeit auszeichnen.
+## Die zwei Standbeine von Leiterschaft: Fähigkeiten und Werte
+Führungsqualität beruht auf der Qualität in zwei Bereichen: Fähigkeiten und Werte. Eine Führungspersönlichkeit kann ein hohes Maß oder ein geringes Maß an Fähigkeiten haben. Und eine Führungskraft kann einen hohen Standard in Bezug auf Werte oder einen niedrigen Standard haben.
 
-Große Worte: Weisheit. "So wahr mir Gott helfe"?
-Lies es noch einmal: Weisheit. Was ist Weisheit? Was bedeutet es, in der heutigen Welt weise zu handeln? Und "So wahr mir Gott helfe"? Warum sollten die Menschen Gott um Hilfe bitten?
+{% include lightbox.html src="2024q3/2024-08-25/Skills-vs-Values.PNG" data="group" title="Fähigkeiten (Skills) und Werte (Values)" %}
 
-Die Welt von heute braucht weise Führer. Und ein "Ziel einer guten Führungspersönlichkeit sollte es sein, Menschen zusammenzubringen, nicht sie zu spalten" (Grant Weber, Sprecher an der Bibelschule). Das ist es, was unsere polarisierte Gesellschaft im Moment mehr braucht als vieles andere. Ein aktuelles Beispiel mit Spaltungspotenzial für die westliche Gesellschaft und die Christen (immerhin mit [2,38 Milliarden Menschen](https://worldpopulationreview.com/country-rankings/most-christian-countries)) war die Eröffnungsfeier der Olympischen Spiele (eine [scharfe Analyse von Johannes Hartl](https://www.youtube.com/watch?v=GU3ECj57omw) gibt es hier). Viele Christen fühlten sich durch die Darstellung des "Letzten Abendmahls" verhöhnt, so dass die grandiose Show in der Praxis keine "Botschaft der Liebe, eine Botschaft der Integration und keineswegs der Spaltung" vermittelte, wie der [kreative Direktor versicherte](https://www.cbsnews.com/news/paris-olympics-organizers-apologize-last-supper-tableau-religious-conservatives/). Wie also können Führungskräfte dazu dienen, Menschen zusammenzubringen? Warum könnte dies auch für Nicht-Führungskräfte wichtig sein? Fortsetzung folgt...
+A) Niedrig-niedrig-Führungskräfte ziehen ihre Mitarbeiter nach unten, weil sie ineffektiv sind. B) Führungskräfte mit hohen Fähigkeiten und niedrigen Werten neigen dazu, ihre Mitarbeiter zu manipulieren. C) Führungskräfte mit hohen Wertestandards, aber geringen Fähigkeiten haben gute Motive, können ihren Leuten aber nicht wirklich helfen. D) Führungskräfte mit hoher Ausprägung in beiden Bereichen werden ihrer Verantwortung durch moralische Grundsätze und die Fähigkeit, diese umzusetzen, gerecht.
+In welchem Quadrant wärst Du gerne? Hoffentlich bei D): Ausgeprägte Fähigkeiten und hohe Werte.
+
+## Aber woher kommen (Deine) moralischen Grundsätze?**
+Von den Naturwissenschaften und einer evolutionären Weltanschauung („survival of the fittest“), aus der Philosophie ohne Gott, aus einer Religion, oder von einer anderen Person?
+* Der französische Philosoph und Schriftsteller Albert Camus schrieb, dass [„das Leben letztlich eine absurde und zwecklose Angelegenheit ist“](https://www.thecollector.com/albert-camus-meaning-of-life/), weil es unerklärliches Leid und Elend in der Welt gibt. Es ergibt sich die Frage: Warum dann überhaupt nach ethischen Maßstäben handeln?
+* Der deutsche Philosoph Immanuel Kant schlug vor, [„nur nach derjenigen Maxime zu handeln, durch die man [selbst] zugleich wollen kann, dass sie ein allgemeines Gesetz werde.“](https://www.gotquestions.org/categorical-imperative.html) Diese Ethik stützt sich auf das Gewissen des Einzelnen und hofft, dass sich der gute Wille der Menschen durchsetzen wird. Oft scheitert dies daran, dass „der Stärkere“ sich nicht an diese Grundregel hält und versucht, den Schwächeren auszubeuten.
+* Viele Religionen haben mehr oder weniger Verhaltensregeln gesammelt und einen Rahmen dafür geschaffen, was „richtig“ oder „falsch“ ist.
+* Ich bin überzeugt: die ultimative Ethik wurde von Jesus Christus vorgelebt, von welchem die Bibel berichtet. Er inspiriert mich zutiefst und sein Beispiel berührt mein Herz. Er und viele weitere Beispiele von Menschen, die ganz anders handeln als zu erwarten wäre, überzeugen mich: Ich möchte Teil Seiner Bewegung sein, die alle weltlichen Maßstäbe auf den Kopf stellt.
+
+anfangbox
+Jesus' lebt nach umgekehrten Maßstäben:
+> Im Gegenteil: Er [Jesus] verzichtete auf alle seine Vorrechte und stellte sich auf dieselbe Stufe wie ein Diener. Er wurde einer von uns – ein Mensch wie andere Menschen. Aber er erniedrigte sich noch mehr: Im Gehorsam gegenüber Gott nahm er sogar den Tod auf sich; er starb am Kreuz wie ein Verbrecher.“ (Bibel, Philipper 2:7-8)
+
+> Er [Jesus] wurde misshandelt, aber er duldete es ohne ein Wort. Er war stumm wie ein Lamm, das man zur Schlachtung führt. Und wie ein Schaf, das sich nicht wehrt, wenn es geschoren wird, hat er alles widerspruchslos ertragen. Man hörte von ihm keine Klage. (Bibel, Jesaja 53:7)
+
+Ich weiß, dass ich mich - im Jahr 2024 lebend - zu diesem historisches Ereignis positionieren muss. Ich habe mich dazu entschieden, mein Leben durch diese Tatsache und den Gott den Jesus "mein Gott" nennt verändern zu lassen.
+Ich habe selbst gesehen und erfahren, dass seine Prinzipien tatsächlich funktionieren.
+endbox
+
+Daher passen die Bibelschule und das Programm, das ich besuche, perfekt, um A) in meinem Charakter und meinen Werten zu wachsen, und B) praktische Führungsqualitäten zu entwickeln.
+
+**Ohne Gott fehlt uns eine stabile Grundlage für moralische Prinzipien. Und Gott anzuerkennen ist der erste Schritt zur Weisheit.**
+
+## Was mache ich in einer Bibelschule?
+Zusammen mit acht anderen Studenten leben wir auf einem Grundstück, zu dem ein Haupthaus, ein kleiner Konferenzsaal, mehrere Schuppen (einer davon mit einem Snookertisch) und Hütten für die Unterbringung gehören. Auch ein Teil der Mitarbeiter und Freiwilligen wohnt auf dem Gelände. Gerne gebe ich einen kleinen Einblick, wie unsere Wochen hier aussehen.
+
+{% include lightbox.html src="2024q3/2024-08-25/ScheduleWeek7.PNG" data="group" title="Wochenplan 7" %}
+
+Wir haben Unterrichtseinheiten über die Bibel, Vorträge über Leiterschaft und praktische Aufgaben. Außerdem müssen wir wöchentliche Abgaben ausarbeiten, recherchieren, ein Buch über Leiterschaft lesen und darüber diskutieren ([Geistliche Leiterschaft von J. Oswald Sanders](https://www.perlego.com/book/3900793/spiritual-leadership-principles-of-excellence-for-every-believer-pdf)) und verschiedene Vorträge halten.
+
+Bleib dran, um in den Genuss der nächsten Berichte und Tipps zu Leiterschaft zu kommen...
+
+## Nächste Schritte
+Die Bibelschule endet bereits in zwei Wochen :/. Nach zweieinhalb Wochen in Neuseeland (Roadtrip auf der Südinsel mit anderen Studenten der Bibelschule) werde ich nach Australien zurückkehren und als Freelancer/IT-Berater arbeiten.
