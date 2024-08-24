@@ -62,7 +62,7 @@ Let me introduce you to how our weeks look like.
 
 We have lectures about the Bible, lectures about leadership, and practical tasks. Further, we need to write weekly assignments, do research, participate in a weekly book study ([Spiritual leadership by J. Oswald Sanders](https://www.perlego.com/book/3900793/spiritual-leadership-principles-of-excellence-for-every-believer-pdf)), and give several presentations.
 
-Stay tuned for bite-sized leadership take-aways that are to come...
+Stay tuned for bite-sized leadership takeaways that are to come...
 
 ## Upcoming plans
 The Bible school already ends in two weeks :/. After two and a half weeks in New Zealand (road trip on the southern island with other students from Bible school) I'll return to Australia and freelance as an IT-Consultant.
