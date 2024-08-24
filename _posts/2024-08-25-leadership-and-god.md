@@ -60,7 +60,7 @@ Thus, the Bible school and program that I attend fit perfectly to A) invest in m
 Together with eight other students we live together on a property which includes a _main house_, a small _conference hall_, several sheds (one with a snooker table), and cabins for accommodation. Also, part of the staff and volunteers live on site.
 Let me introduce you to how our weeks look like.
 
-% {% include lightbox.html src="2024q3/2024-08-25/ScheduleWeek7.PNG" data="group" title="Schedule Week 7" %}
+{% include lightbox.html src="2024q3/2024-08-25/ScheduleWeek7.PNG" data="group" title="Schedule Week 7" %}
 
 We have lectures about the Bible, lectures about leadership, and practical tasks. Further, we need to write weekly assignments, do research, participate in a weekly book study ([Spiritual leadership by J. Oswald Sanders](https://www.perlego.com/book/3900793/spiritual-leadership-principles-of-excellence-for-every-believer-pdf)), and give several presentations.
 
