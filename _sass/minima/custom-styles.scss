@@ -38,10 +38,14 @@
 
 .nav_prev {
   text-align: left;
+  position: relative;
+  left: 0px;
 }
 
 .nav_next {
   text-align: right;
+  position: relative;
+  right: 0px;
 }
 
 .nav_prev,
