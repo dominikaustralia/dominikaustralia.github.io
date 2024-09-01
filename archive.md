@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blog Archiv
-permalink: /archive.html
+permalink: /archive/
 ---
 
 {% for tag in site.tags %}
