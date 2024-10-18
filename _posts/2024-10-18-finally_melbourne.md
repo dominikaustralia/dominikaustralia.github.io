@@ -5,7 +5,7 @@ categories: info
 
 Zuerst kommt das englische Original, unten findet sich die [deutsche Version](#deutsch). Dazwischen kommen ein paar [Bilder](#bilder).
 
-## Endlich Melbourne erreicht!  |  I finally reached Melbourne!
+## Endlich Melbourne erreicht!  \|  I finally reached Melbourne!
 
 ---
 **Sum-up:** Arrival in Melbourne: One week at Teenstreet and two weeks in my flat in St Kilda. I am glad to be here and enjoy my time living and working in Melbourne.
