@@ -3,7 +3,7 @@ categories: info
 # tags: 
 ---
 
-## Warum nach Australien? 🙈  \|  Why Australia? 🙈
+## Warum nach Australien? 🙈  |  Why Australia? 🙈
 Zuerst kommt das englische Original, unten findet sich die [deutsche Version](#deutsch). Dazwischen kommen ein paar [Bilder](#bilder).
 
 ---

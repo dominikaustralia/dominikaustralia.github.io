@@ -3,7 +3,7 @@ categories: info
 # tags: 
 ---
 
-## Leiterschaft und Gott?  \|  Leadership and God?
+## Leiterschaft und Gott?  |  Leadership and God?
 Zuerst kommt das englische Original, unten findet sich die [deutsche Version](#deutsch). Dazwischen kommen ein paar [Bilder](#bilder).
 
 ---
