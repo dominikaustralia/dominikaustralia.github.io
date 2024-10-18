@@ -11,8 +11,6 @@ Zuerst kommt das englische Original, unten findet sich die [deutsche Version](#d
 
 ---
 
-I finally reached Melbourne. Endlich Melbourne erreicht. 
-
 ## What I ponder about
 > He \[Jesus\] must increase, but I must decrease. (John the Baptist, Bible, [John 3:30](https://biblehub.com/niv/john/3-30.htm))
 
