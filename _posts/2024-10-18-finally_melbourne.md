@@ -142,7 +142,7 @@ With all that, I hope to hear from _you_: what is God doing in your life, and wh
 ## Endlich Melbourne erreicht!
 
 ---
-**In Kürze:** 
+**In Kürze:** Ankunft in Melbourne: Eine Woche Teenstreet und seitdem zwei Wochen in meiner WG in St Kilda. Ich freue mich, nun hier an meiem Zielort angekommen zu sein und in mein Leben in Melbourne zu starten.
 
 ---
 
