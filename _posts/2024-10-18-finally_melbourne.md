@@ -67,6 +67,12 @@ There are many other nice moments, like a bike ride I did last Sunday, twice coo
 
 With all that, I hope to hear from _you_: what is God doing in your life, and what do you reflect upon? Write me an [email](mailto:australia@vodafonemail.de) or WhatsApp message. I would be very happy to hear from you too. As indicated, I hope to show some photos of the Blue Mountains and New Zealand in the next blog posts. See you!
 
+## Prayer
+* Thank God for the car relocation, good flat and great freelancer job!
+* Thanks for time to reflect and spend time with Jesus.
+* Pray for inspiring contacts and new friendships.
+* Pray for me to have an open heart and ear to understand and obey what God teaches me and how He guides me.
+
 ---
 # Bilder
 
@@ -200,3 +206,8 @@ Es gibt noch viele andere schöne Momente, wie eine Radtour, die ich letzten Son
 
 Soweit von mir, ich würde mich freuen, auch von _Dir_ zu hören: was tut Gott in deinem Leben, und Was beschäftigt dich so? Schreib mir gerne per [E-Mail](mailto:australia@vodafonemail.de) oder WhatsApp. Ich werde bestimmt antworten. Und wie bereits angedeutet, hoffe ich, in den nächsten Blogbeiträgen einige Fotos von den Blue Mountains und Neuseeland zu zeigen. Bis dann!
 
+## Gebet
+* Dank für das Auto/Fahrt nach Melbourne, die WG und den Freelancer Job.
+* Dank für Zeit mit Jesus beim Lesen und Reflektieren.
+* Bitte um inspirierende Kontakte and neue Freundschaften.
+* Bitte um ein offenes Herz und Ohr. Dass ich verstehe und gehorche, was Gott mir beibringt und wie er mich führt.
