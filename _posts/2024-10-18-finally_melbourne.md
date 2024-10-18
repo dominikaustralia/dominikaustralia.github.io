@@ -62,7 +62,7 @@ The first weekend I had a cold, so I watched the planetshakers church service on
 
 There are many other nice moments, like a bike ride I did last Sunday, twice cooking with a flatmate, to go jogging, or when I found a good bakery. (I've met some Germans who desperately missed the good German bread not so long ago;)...
 
-With all that, I hope to hear from _you_: what is God doing in your life, and what do you reflect upon? Write me an [email](mailto:australia@vodafonemail.de) or WhatsApp message. I would be very happy to hear from you too. As indicated, I hope to show some photos of the Blue Mountains and New Zealand in the next blog posts. See you!
+With all that, I hope to hear from _you_: what is God doing in your life, and what do you reflect upon? Write me an [email](mailto:australia@vodafonemail.de) or [WhatsApp message](https://wa.me/?text=Hallo%20Dominik%2C%0A). I would be very happy to hear from you too. As indicated, I hope to show some photos of the Blue Mountains and New Zealand in the next blog posts. See you!
 
 ## Prayer
 * Thank God for the car relocation, good flat and great freelancer job!
