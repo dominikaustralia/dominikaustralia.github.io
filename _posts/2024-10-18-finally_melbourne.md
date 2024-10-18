@@ -3,7 +3,7 @@ categories: info
 # tags: 
 ---
 
-## I finally reached Melbourne | Endlich Melbourne erreicht!
+## I finally reached Melbourne!
 Zuerst kommt das englische Original, unten findet sich die [deutsche Version](#deutsch). Dazwischen kommen ein paar [Bilder](#bilder).
 
 ---
@@ -139,7 +139,7 @@ With all that, I hope to hear from _you_: what is God doing in your life, and wh
 ---
 
 # Deutsch
-## Endlich Melbourne erreicht
+## Endlich Melbourne erreicht!
 
 ---
 **In Kürze:** 
