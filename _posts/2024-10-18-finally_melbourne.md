@@ -201,7 +201,7 @@ Am ersten Wochenende hatte ich noch eine Erkältung, also habe ich mir den Plane
 
 Es gibt noch viele andere schöne Momente, wie eine Radtour, die ich letzten Sonntag unternommen habe, zweimal Kochen mit der Mitbewohnerin, Joggen gehen oder als ich eine gute Bäckerei gefunden habe. (Es gibt da einige Deutsche, die hier in Australien/Neuseeland das gute deutsche Brot sehr vermisst haben;) ... )
 
-Soweit von mir, ich würde mich freuen, auch von _Dir_ zu hören: was tut Gott in deinem Leben, und Was beschäftigt dich so? Schreib mir gerne per [E-Mail](mailto:australia@vodafonemail.de) oder WhatsApp. Ich werde bestimmt antworten. Und wie bereits angedeutet, hoffe ich, in den nächsten Blogbeiträgen einige Fotos von den Blue Mountains und Neuseeland zu zeigen. Bis dann!
+Soweit von mir, ich würde mich freuen, auch von _Dir_ zu hören: was tut Gott in deinem Leben, und Was beschäftigt dich so? Schreib mir gerne per [E-Mail](mailto:australia@vodafonemail.de) oder [WhatsApp](https://wa.me/?text=Hallo%20Dominik%2C%0A). Ich werde bestimmt antworten. Und wie bereits angedeutet, hoffe ich, in den nächsten Blogbeiträgen einige Fotos von den Blue Mountains und Neuseeland zu zeigen. Bis dann!
 
 ## Gebet
 * Dank für das Auto/Fahrt nach Melbourne, die WG und den Freelancer Job.
