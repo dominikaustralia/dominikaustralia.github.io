@@ -3,7 +3,7 @@ categories: info
 # tags: 
 ---
 
-## I finally reached Melbourne!
+## Endlich Melbourne erreicht!{% include title_separator.html %}I finally reached Melbourne!
 Zuerst kommt das englische Original, unten findet sich die [deutsche Version](#deutsch). Dazwischen kommen ein paar [Bilder](#bilder).
 
 ---
