@@ -3,7 +3,7 @@ categories: info
 # tags: 
 ---
 
-## "Bist du schon angekommen?!" – Ja :D \| "Did you arrive?!" – Yes :D
+## "Bist du schon angekommen?!" – Ja :D  |  "Did you arrive?!" – Yes :D
 Zuerst kommt das englische Original (englisch zu schreiben fühlt sich für mich natürlicher an), unten ist die von Deepl übersetzte und von mir überarbeitete [deutsche Version](#deutsch). Dazwischen kommen ein paar [Bilder](#bilder).
 
 ---
