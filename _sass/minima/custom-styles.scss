@@ -65,3 +65,81 @@
   font-size: 1.2em;
   opacity: 0.3;
 }
+
+
+/* Style LightGallery captions */
+.lg-sub-html h4 {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.lg-sub-html p {
+  font-size: 1em;
+  color: #aaa;  /* Adjust as needed */
+  margin-top: 0.5em;
+  font-weight: bold;
+}
+
+.lg-sub-html {
+  display: block;         /* Ensure the captions are block elements */
+  opacity: 1;            /* Make sure they are fully visible */
+  transition: opacity 0.5s; /* Optional: smooth transition */
+  position: relative;     /* Positioning for absolute children if needed */
+  z-index: 1000;         /* Make sure captions are above other elements */
+}
+
+
+.image-gallery {
+  display: block;
+  position: relative;  /* Allows positioning of child elements */
+
+  /* Set up a sizer element for Isotope's masonry layout */
+  .gallery-sizer {
+    width: 33%; /* Adjust as needed for the column width */
+    @media screen and (max-width: $on-palm) {
+      width: 50%; /* 2 columns on smaller screens */
+    }
+  }
+
+  /* Default width for gallery items */
+  .gallery-item {
+    width: 33%; /* Change to a percent smallat fits your layout */
+    float: left; /* Floating allows the layout to work */
+    padding: 3px; /* Adds padding around each image wrapper */
+    box-sizing: border-box; /* Ensures padding is included in the total width/height */
+    transition: transform 0.2s; /* Smooth transitions for hover effects */
+
+    @media screen and (max-width: $on-palm) {
+      width: 50%; /* 2 columns on smaller screens */
+    }
+  }
+
+  /* For wider items, if you want to implement width variations */
+  .gallery-item--width2 {
+    width: 50%; /* Adjust as necessary */
+  }
+
+  img {
+    width: 100%; /* Sets image to take full width of its container */
+    height: auto; /* Maintains aspect ratio */
+    display: block; /* Ensures no extra space below the image */
+  }
+
+  /* Clearfix to clear floated elements */
+  &:after {
+    content: ''; /* Creates a clearfix for floated elements */
+    display: table; /* More modern clearfix */
+    clear: both; /* Clears the float */
+  }
+}
+
+.lg-toolbar .custom-caption {
+  display: flex;
+  justify-content: center;  /* Center horizontally */
+  align-items: center;      /* Center vertically if toolbar height allows */
+  width: 100%;
+  // color: #fff;              /* Adjust font color */
+  // font-size: 1em;
+  // font-weight: bold;
+  text-align: center;
+}
