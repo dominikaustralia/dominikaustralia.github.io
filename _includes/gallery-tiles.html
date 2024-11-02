@@ -1,0 +1,80 @@
+{% assign width = 2400 | default: "2400" %}
+{% assign height = 2400 | default: "2400" %}
+{% assign width_thumb = 2400 | default: "1200" %}
+{% assign height_thumb = 2400 | default: "1200" %}
+
+<!-- Gallery Container -->
+<div id="image-gallery{% if include.id_number %}-{{ include.id_number }}{% endif %}" class="image-gallery">
+  <div id="gallery-sizer{% if include.id_number %}-{{ include.id_number }}{% endif %}" class="gallery-sizer"></div>
+  
+  {% for picture in include.gallery.pictures %}
+    <div class="gallery-item">
+      <a href="https://wsrv.nl/?url={{ site.github.url }}/assets/galleries/{{ include.gallery.picture_path }}/{{ picture.original }}&w={{ width }}&h={{ height }}&fit=inside"
+        data-sub-html="<h4>{{ picture.title | escape }}</h4><p>{{ picture.caption | escape }}</p>">
+        <img src="https://wsrv.nl/?url={{ site.github.url }}/assets/galleries/{{ include.gallery.picture_path }}/{{ picture.original }}&w={{ width }}&h={{ height }}&fit=inside"
+          alt="{{ picture.title }}" />
+      </a>
+    </div>
+  {% endfor %}
+</div>
+
+<!-- Initialize LightGallery and Isotope -->
+<script>
+  $(document).ready(function() {
+    // Initialize LightGallery for the specific gallery
+    lightGallery(document.getElementById('image-gallery{% if include.id_number %}-{{ include.id_number }}{% endif %}'), {
+      selector: 'a',                // Selector for the gallery items
+
+      thumbnail: true,              // Enable thumbnails
+      toggleThumb: true,
+      allowMediaOverlap: true,      // Allow media to overlap
+      showThumbByDefault: false,    // Disable showing thumbnails by default
+      download: false,
+      share: false,
+      zoom: true,                   // Enables zoom feature
+      showZoomInOutIcons: false,
+      fullScreen: true,             // Enables full screen mode
+
+      autoplay: true,               // Enable autoplay for slideshow
+      pause: 3000,                  // Pause duration for slideshow (3 seconds)
+      mode: 'lg-slide',                 // 'fade', 'slide', 'lg-slide'
+      loop: false,
+      progressBar: true,
+
+      plugins: [lgZoom, lgFullscreen, lgAutoplay, lgThumbnail],
+      subHtmlSelectorRelative: true, // Use relative selector for captions
+      hideBarsDelay: 2000,
+      hideControlOnEnd: true,
+      appendSubHtmlTo: ".lg-sub-html", // ".lg-item",
+      enableThumbSwipe: false,
+
+      closeOnTap: false,
+      hideScrollbar: true,
+    });
+
+    // Manually move the captions to the toolbar after LightGallery initializes
+  // $(document).on('onAfterSlide.lg', function(event, prevIndex, index) {
+  //   // Get the current caption
+  //   const caption = $('.lg-sub-html').html();
+    
+  //   // Insert a custom div after
+  // $('.lg-counter').after('<div class="custom-caption">${caption}</div>');
+
+  // });
+
+    // Initialize Isotope
+    var $grid = $('#image-gallery{% if include.id_number %}-{{ include.id_number }}{% endif %}').isotope({
+      itemSelector: '.gallery-item',
+      layoutMode: 'masonry',
+      percentPosition: true,
+      masonry: {
+        columnWidth: '.gallery-sizer'
+      }
+    });
+
+    // Layout Isotope after each image loads
+    $grid.imagesLoaded().progress(function() {
+      $grid.isotope('layout');
+    });
+  });
+</script>
