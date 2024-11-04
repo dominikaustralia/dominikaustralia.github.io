@@ -49,7 +49,7 @@ But there were also some not so nice moments, for example on the last day/evenin
 All in all, though, I still have lots of wonderful memories. And the experience of how faithful and simply wonderful our God is. He led us along our route, always from one day to the next. We were able to grow together as a team, learn to trust each other and also overcome challenges together. There are so many more stories to tell... 
 All the more reason for me to thank God, who guided us, surprised us, brought us joy, whose beautiful and impressive creation we were able to marvel at, who gave us songs and praise on the trips, and concentration and protection on the long drives. He had us in mind, gave us good and personal conversations at just the right time, and allowed us to rest, recharge our batteries and gain a perspective for the future again and again! Hallelujah - praise the Lord. Glory be to him!
 
-Our itinerary is here [marked on a map](https://waypoint.jakelazaroff.com/97417f38-ae07-4be3-8348-a8312ddba973). Please don't change anything there, the link gives public editing access 🙈. Isn't it cool what some other people create and publish on the internet? Thanks to [Jake Lazaroff](https://jakelazaroff.com/words/a-local-first-case-study/).
+Below you find our itinerary on a map. Thanks to [Jake Lazaroff](https://jakelazaroff.com/words/a-local-first-case-study/) for sharing his route planning application.
 
 <table>
   <tr>
@@ -104,7 +104,7 @@ Es gab aber auch die nicht so schönen Momente, so zum Beispiel am letzten Tag/A
 Insgesamt aber bleiben sehr viele schöne Erinnerungen. Und die Erfahrung, wie treu und einfach wunderbar unser Gott ist. Er hat uns mit unserer Route super geführt, immer von einem Tag zum nächsten. Wir durften als Team zusammenzuwachsen, lernen uns gegenseitig zu vertrauen, und auch Herausforderungen gemeinsam durchstehen. Es gäbe noch so viel mehr Geschichten zu erzählen... 
 Umso mehr möchte ich Gott danken, der uns geleitet hat, überrascht hat, in Freude versetzt hat, über dessen wunderschöne und beeindruckende Schöpfung wir staunen durften, der uns Freude und Lobpreis auf den Fahrten geschenkt hat, und Konzentration und Bewahrung beim langen Fahren. Der uns im Blick hatte, gerade zum richtigen Zeitpunkt gute und persönliche Gespräche geschenkt hat, und bei dem wir immer wieder Ausruhen, Auftanken und eine Perspektive für die Zukunft bekommen dürfen! Hallelujah – lobet den Herrn. Ihm sei Ehre!
 
-Unsere Reiseroute ist hier [auf einer Karte eingezeichnet](https://waypoint.jakelazaroff.com/97417f38-ae07-4be3-8348-a8312ddba973). Bitte dort nichts verändern, der Link gibt öffentlichen Bearbeitungszugang 🙈. Ist es nicht cool, was manche andere Leute alles Kreiren und im Internet veröffentlichen? Dank an [Jake Lazaroff](https://jakelazaroff.com/words/a-local-first-case-study/).
+Unten ist unsere Reiseroute auf einer Karte eingezeichnet. Dank an [Jake Lazaroff](https://jakelazaroff.com/words/a-local-first-case-study/), der seine Routenplanungs-Anwendung veröffentlicht hat.
 
 <table>
   <tr>
