@@ -99,7 +99,7 @@ You and I can experience the very same thing when we take God's word seriously a
       {% include image_wrapper.html src="2024q4/2024-12-25/2024-12-25_01.jpg" data="group" title="Geklaute Räder" %}
     </td>
     <td>
-      {% include image_wrapper.html src="2024q4/2024-12-25/2024-12-25_03.jpg" data="group" title="Fahrrad no2" %}
+      {% include image_wrapper.html src="2024q4/2024-12-25/2024-12-25_04.jpg" data="group" title="Kaputtes Pedal" %}
     </td>
   </tr>
   <tr>
@@ -107,7 +107,7 @@ You and I can experience the very same thing when we take God's word seriously a
       Die Räder wurden geklaut.
     </td>
     <td>
-      Fahrrad no. 2 ...
+      Abgefallenes Pedal...
     </td>
   </tr>
   <tr>
@@ -115,7 +115,7 @@ You and I can experience the very same thing when we take God's word seriously a
       {% include image_wrapper.html src="2024q4/2024-12-25/2024-12-25_02.jpg" data="group" title="Fahrrad ganz geklaut" %}
     </td>
     <td>
-      {% include image_wrapper.html src="2024q4/2024-12-25/2024-12-25_04.jpg" data="group" title="Kaputtes Pedal" %}
+      {% include image_wrapper.html src="2024q4/2024-12-25/2024-12-25_03.jpg" data="group" title="Fahrrad no2" %}
     </td>
   </tr>
   <tr>
@@ -123,7 +123,7 @@ You and I can experience the very same thing when we take God's word seriously a
       Nix mehr da vom Fahrrad!
     </td>
     <td>
-      ... mit abgefallenem Pedal.
+      an Fahrrad no. 2.
     </td>
   </tr>
   <tr>
