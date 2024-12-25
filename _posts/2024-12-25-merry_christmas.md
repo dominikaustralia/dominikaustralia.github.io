@@ -133,26 +133,26 @@ You and I can experience the very same thing when we take God's word seriously a
   </tr>
   <tr>
     <td>
-      {% include image_wrapper.html src="2024q4/2024-12-25/2024-12-25_21.jpg" data="group" title="Krippe front" %}
+      {% include image_wrapper.html src="2024q4/2024-12-25/2024-12-25_31.jpg" data="group" title="Krippe front" %}
     </td>
     <td>
-      {% include image_wrapper.html src="2024q4/2024-12-25/2024-12-25_22.jpg" data="group" title="Krippe Maria und Josef" %}
-    </td>
-  </tr>
-  <tr>
-    <td>
-      {% include image_wrapper.html src="2024q4/2024-12-25/2024-12-25_23.jpg" data="group" title="Krippe Weise" %}
-    </td>
-    <td>
-      {% include image_wrapper.html src="2024q4/2024-12-25/2024-12-25_24.jpg" data="group" title="Krippe Hirte" %}
+      {% include image_wrapper.html src="2024q4/2024-12-25/2024-12-25_32.jpg" data="group" title="Krippe Maria und Josef" %}
     </td>
   </tr>
   <tr>
     <td>
-      {% include image_wrapper.html src="2024q4/2024-12-25/2024-12-25_25.jpg" data="group" title="Krippe von oben" %}
+      {% include image_wrapper.html src="2024q4/2024-12-25/2024-12-25_33.jpg" data="group" title="Krippe Weise" %}
     </td>
     <td>
-      {% include image_wrapper.html src="2024q4/2024-12-25/2024-12-25_26.jpg" data="group" title="Krippe Engel und Stern" %}
+      {% include image_wrapper.html src="2024q4/2024-12-25/2024-12-25_34.jpg" data="group" title="Krippe Hirte" %}
+    </td>
+  </tr>
+  <tr>
+    <td>
+      {% include image_wrapper.html src="2024q4/2024-12-25/2024-12-25_35.jpg" data="group" title="Krippe von oben" %}
+    </td>
+    <td>
+      {% include image_wrapper.html src="2024q4/2024-12-25/2024-12-25_36.jpg" data="group" title="Krippe Engel und Stern" %}
     </td>
   </tr>
 </table>
