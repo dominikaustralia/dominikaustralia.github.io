@@ -123,7 +123,7 @@ You and I can experience the very same thing when we take God's word seriously a
       Nix mehr da vom Fahrrad!
     </td>
     <td>
-      an Fahrrad no. 2.
+      ... an Fahrrad no. 2.
     </td>
   </tr>
   <tr>
