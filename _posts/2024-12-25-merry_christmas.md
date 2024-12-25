@@ -25,16 +25,24 @@ Zuerst kommt das englische Original, unten findet sich die [deutsche Version](#d
 
 ### _Imagine the following setting (2 Samuel 6:10-12):_
 King David (_knocking on the door of some house_): "Hello. Can we store God here? It is too dangerous to continue bringing the ark with His presence to Jerusalem!"
+
 Obed-Edom (_opening the door_): "Sorry? What is this about? I've never heard a question like this. Though, I will make room. I'm gonna change my plans."
+
 _They bring the ark into Obed-Edom's house. God blesses him greatly._
+
 _Three months pass by._
+
 King David: "That's enough! We should bring the ark of God's blessing to Jerusalem, immediately."
+
 _The arc is brought to Jerusalem._
 
 ### Some things seem not to make sense
 > Christmas in summer.
+
 > Or: Christmas in winter for the Aussies 😜.
+
 > A King born in a stable.
+
 > God in need for a place to stay?!
 
 Indeed, God is asking for a place to stay. He was in need of a place when Jesus was born. His ark was in need of a place when king David stopped the journey to Jerusalem and the ark was temporary accommodated at Obed-Edom's.
@@ -54,7 +62,7 @@ I didn't know I had to prove my "joy of stumbling" not long after I arrived in M
 
 ### The story with my bike
 Well, one of the first things I bought at Melbourne was a second-hand bike. I was quite excited how cheap it was and that I was flexible and able to get around much easier and cheaper than with the tram. I did a few bike tours, went to church, rode to the grocery store... One day when riding to church, I took a bend too tight – and the rear wheel went flat. Meeh :/. Since the church service was about to start, I decided to lock the bike where it was and look after it later – or tomorrow. What I didn't realise was that the peaceful appearance of the park in front of the tower block where I locked my bike was deceptive.
-The next day at noon I came back to where I left my bike – the wheels were stolen. While staring at the situation with a disappointed look, I slightly hoped one of the passers-by would notice me. I wouldn't profit from the repair kit and tube that I had bought just before. Luckily, a guy took notice of me, and I explained my situation and the plan to go shopping in the city centre from here. He offered to get me two cheap wheels! So, I gave him (though he looked like a junkie) a chance – and my phone number, planning to meet with him in the evening. Not without doubt I waited for him – until he actually showed up, carrying two bike wheels. One had a flat tube which we quickly fixed. But when we came to the place where my bike was – it wasn't there anymore. 'Nature' had neatly tidied up all the remains... 🙈. Meeeeeeeeh :(. I couldn't believe it. Now I had two wheels, but no frame. The guy asked what kind of bike I would like; I could also get a frame from him the next day 🙈😂. But at night he and one of his (junkie) mates called me again and claimed that I had given him fake money for the wheels. I'm glad my flatmate noticed me talking to them, responded for me and kept me back from meeting these guys at night – would they have tried to rob me?
+The next day at noon I came back to where I left my bike – the wheels were stolen. While staring at the situation with a disappointed look, I slightly hoped one of the passers-by would notice me. I wouldn't profit from the repair kit and tube that I had bought just before. Luckily, a guy took notice of me, and I explained my situation and the plan to go shopping in the city centre from here. He offered to get me two cheap wheels! So, I gave him (though he looked like a junkie) a chance – and my phone number, planning to meet with him in the evening. Not without doubt I waited for him – until he actually showed up, carrying two bike wheels. One had a flat tube which we quickly fixed. But when we came to the place where my bike was – it wasn't there anymore. 'Nature' had neatly tidied up all the remains... 🙈. Meeeeeeeeh :(. I couldn't believe it. Now I had two wheels, but no frame. The guy asked what kind of bike I would like; I could also get a frame from him the next day 😂. But at night he and one of his (junkie) mates called me again and claimed that I had given him fake money for the wheels. I'm glad my flatmate noticed me talking to them, responded for me and kept me back from meeting these guys at night – would they have tried to rob me?
 
 All the way through I prayed and discussed all the matters with Jesus: how disappointed I was at first, how thankful a was meeting someone who would help me, being disappointed again and hoping to get a cheap and working bike soon. While trying to hold my belongings loosely, I knew God did see the situation and would care for me. Maybe he would supply me even with a better bike.
 
@@ -91,7 +99,7 @@ You and I can experience the very same thing when we take God's word seriously a
       {% include image_wrapper.html src="2024q4/2024-12-25/2024-12-25_01.jpg" data="group" title="Geklaute Räder" %}
     </td>
     <td>
-      {% include image_wrapper.html src="2024q4/2024-12-25/2024-12-25_02.jpg" data="group" title="Unterwegs" %}
+      {% include image_wrapper.html src="2024q4/2024-12-25/2024-12-25_03.jpg" data="group" title="Fahrrad no2" %}
     </td>
   </tr>
   <tr>
@@ -99,12 +107,12 @@ You and I can experience the very same thing when we take God's word seriously a
       Die Räder wurden geklaut.
     </td>
     <td>
-      Nix mehr da vom Fahrrad!
+      Fahrrad no. 2 ...
     </td>
   </tr>
   <tr>
     <td>
-      {% include image_wrapper.html src="2024q4/2024-12-25/2024-12-25_03.jpg" data="group" title="Fahrrad no2" %}
+      {% include image_wrapper.html src="2024q4/2024-12-25/2024-12-25_02.jpg" data="group" title="Fahrrad ganz geklaut" %}
     </td>
     <td>
       {% include image_wrapper.html src="2024q4/2024-12-25/2024-12-25_04.jpg" data="group" title="Kaputtes Pedal" %}
@@ -112,7 +120,7 @@ You and I can experience the very same thing when we take God's word seriously a
   </tr>
   <tr>
     <td>
-      Fahrrad no. 2 ...
+      Nix mehr da vom Fahrrad!
     </td>
     <td>
       ... mit abgefallenem Pedal.
@@ -161,16 +169,24 @@ You and I can experience the very same thing when we take God's word seriously a
 
 ### Vor vielen vielen Jahren (2 Samuel 6:10-12):_
 König David (_klopft an die Tür eines Hauses_): "Hallo. Können wir Gott hier unterbringen? Es ist zu gefährlich, die Bundeslade mit Seiner Gegenwart weiter nach Jerusalem zu bringen!"
+
 Obed-Edom (_öffnet die Tür_): "Wie bitte? Was soll das denn heißen? So eine Frage hab ich ja noch nie gehört. Aber ich werde Platz machen. Ich werde meine Pläne ändern."
+
 _Sie bringen die Bundeslade in Obed-Edoms Haus. Gott segnet ihn sehr._
+
 _Drei Monate vergehen._
+
 König David: "Das ist genug! Wir sollten den Kasten der Gottes Segen bringt sofort nach Jerusalem bringen."
+
 _Die Lade wird nach Jerusalem gebracht._
 
 ### Manche Dinge scheinen keinen Sinn zu ergeben
 > Weihnachten im Sommer.
+
 > Oder: Weihnachten im Winter für die Aussies 😜.
+
 > Ein König, der in einem Stall geboren wird.
+
 > Gott sucht eine Bleibe?!
 
 In der Tat bittet Gott um einen Platz zum Bleiben. Als Jesus geboren wurde brauchte er ein Unterkunft. Gottes Bundeslade brauchte einen "Abstellplatz", als König David entschied die Bundeslade nicht weiter nach Jerusalem bringen zu lassen und diese vorübergehend bei Obed-Edom untergebracht wurde.
