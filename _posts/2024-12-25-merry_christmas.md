@@ -163,7 +163,7 @@ You and I can experience the very same thing when we take God's word seriously a
 ## Frohe Weihnachten!
 
 ---
-**In Kürze:** Wenn das Wetter grau ist und du ein paar Minuaten entspannen möchtest, erfreu dich an diesem Update von meiner Zeit in Melbourne. :D
+**In Kürze:** Wenn das Wetter grau ist und du ein paar Minuten entspannen möchtest, erfreu dich an diesem Update von meiner Zeit in Melbourne. :D
 
 ---
 
