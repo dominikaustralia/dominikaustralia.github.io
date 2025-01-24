@@ -163,11 +163,11 @@ You and I can experience the very same thing when we take God's word seriously a
 ## Frohe Weihnachten!
 
 ---
-**In Kürze:** Wenn das Wetter grau ist und du ein paar Minuaten entspannen möchtest, erfreu dich an diesem Update von meiner Zeit in Melbourne. :D
+**In Kürze:** Wenn das Wetter grau ist und du ein paar Minuten entspannen möchtest, erfreu dich an diesem Update von meiner Zeit in Melbourne. :D
 
 ---
 
-### Vor vielen vielen Jahren (2 Samuel 6:10-12):_
+### _Vor vielen vielen Jahren (2 Samuel 6:10-12):_
 König David (_klopft an die Tür eines Hauses_): "Hallo. Können wir Gott hier unterbringen? Es ist zu gefährlich, die Bundeslade mit Seiner Gegenwart weiter nach Jerusalem zu bringen!"
 
 Obed-Edom (_öffnet die Tür_): "Wie bitte? Was soll das denn heißen? So eine Frage hab ich ja noch nie gehört. Aber ich werde Platz machen. Ich werde meine Pläne ändern."
