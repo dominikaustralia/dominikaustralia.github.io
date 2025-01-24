@@ -52,6 +52,8 @@ To get a chance of diving deeper, I consider enrolling for lectures at the plane
 
 I would also like _you_ to share your experiences and questions with me. God has given me friends and brothers and sisters in Christ, so that I learn with you and from you, to encourage and to be encouraged. Each of us shall grow in the understanding of the mystery of Christ and his church and have fellowship with Him and each other.
 
+[View the pictures](#bilder).
+
 ---
 
 # Deutsch
