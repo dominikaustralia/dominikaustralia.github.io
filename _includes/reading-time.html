@@ -2,5 +2,5 @@
 {{ content | number_of_words | minus: 180 }}
 {% endcapture %}
 {% unless words contains '-' %}
-Lesezeit: {{ words | plus: 180 | divided_by: 180 | append: ' min' }}
+Lesezeit: 2x {{ words | plus: 180 | divided_by: 180 | divided_by: 2 | append: ' min' }}
 {% endunless %}
