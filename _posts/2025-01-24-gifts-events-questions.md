@@ -103,7 +103,7 @@ Gerne kannst _du_ auch deine Erfahrungen und Fragen mit mir teilen. Gott hat mir
 
 
 ---
-# Bilder  \|  Pictures
+# Bilder
 
 ## Melbourne
 
