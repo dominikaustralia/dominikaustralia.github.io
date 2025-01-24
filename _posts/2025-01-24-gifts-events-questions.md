@@ -1,5 +1,7 @@
 ---
+layout: post
 categories: info
+support: [jquery, gallery]
 # tags: 
 ---
 
