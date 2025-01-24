@@ -109,8 +109,8 @@ Gerne kannst _du_ auch deine Erfahrungen und Fragen mit mir teilen. Gott hat mir
 
 ## Great Ocean Road, Philipp Island
 
-{% include gallery-tiles.html gallery=site.data.galleries.2025-01_01_gor-pi id_number=2 %}
+{% include gallery-tiles.html gallery=site.data.galleries.2025-01_02_gor-pi id_number=2 %}
 
 ## Große und kleine Erlebnisse  \|  Big and small events
 
-{% include gallery-tiles.html gallery=site.data.galleries.2025-01_01_melb251 id_number=3 %}
+{% include gallery-tiles.html gallery=site.data.galleries.2025-01_03_melb251 id_number=3 %}
