@@ -1,4 +1,19 @@
-## Do you allow God to change your plans? – My unexpected adventure started.
+---
+layout: post
+categories: info
+support:
+# tags: 
+---
+
+## Geänderte Pläne  \|  Changed plans
+Zuerst kommt das englische Original, unten findet sich die [deutsche Version](#deutsch).
+
+---
+**Long story short**: God has guided me to a (at least for me!) surprising decision to change my plans. 
+
+---
+
+### Do you allow God to change your plans? – My unexpected adventure started.
 Life with God is fantastic and exciting, the greatest adventure possible! Through every high and low He is with me and has good plans for my life. He loves to surprise me. And he gifts me with so much that I can be thankful for – see my [last blogpost](https://dominikaustralia.github.io/info/2025/01/24/gifts-events-questions.html) ;). And there is much more to tell: I made friends with people from church, from my urban life group and in the shared flat. I had meaningful conversations and shared experiences like cooking together or going on day trips. Considering the "social setting" in particular, I can see how God has put me in the exact right spot to be a blessing to others and to be blessed and supported by them.
 There is also the other side: sometimes I don't see or understand what God wants to do in my life next. Some plans of mine don't work out as I hope, and some paths that I would like to go prove closed. For example: my search for a job hasn't been sucessful yet. Even though I was full of faith that God had already prepared a job for me, it remains open _when_ this will be... ;). My goal to get first hand experience in practical aspects of leadership from inspiring church leaders through volunteering didn't happen. 
 
@@ -17,7 +32,11 @@ I'm excited how Good will lead me in this and where he'll guide me next.
 Join me in praying for people on the search whom I'll meet on my trip, that they would find answers and hope in Jesus. Pray for myself that I would trust God, listen to him, and be given the right words to speak into lives and specific situations. Thank you very much. 
 
 ---
-## Erlaubt du Gott, deine Pläne zu ändern? - Mein unerwartetes Abenteuer beginnt! 
+# Deutsch
+
+**Kurz gesagt:** Es gibt überraschende Neuigkeiten, meine Pläne wurden verändert und ich befinde mich auf einem Roadtrip entlang der Ostküste.
+
+### Erlaubt du Gott, deine Pläne zu ändern? - Mein unerwartetes Abenteuer beginnt! 
 Das Leben mit Gott ist fantastisch und aufregend, das größte Abenteuer überhaupt! In allen Höhen und Tiefen ist er bei mir und hat gute Pläne für mein Leben. Er liebt es, mich zu überraschen. Und er beschenkt mich mit so vielem, wofür ich dankbar sein kann - siehe meinen [letzten Blogpost](https://dominikaustralia.github.io/info/2025/01/24/gifts-events-questions.html) ;). Und es gibt noch viel mehr zu erzählen: Ich durfte Freundschaften bauen mit Menschen aus der Gemeinde, in meinem Hauskreis und in der WG. Ich hatte inhaltsreiche und tiefe Gespräche, habe gemeinsam gekocht und Tagesausflüge gemacht. Gerade im Hinblick auf das „soziale Umfeld“ sehe ich, wie Gott mich genau an die richtige Stelle gestellt hat, um für andere ein Segen zu sein und durch sie gesegnet und unterstützt zu werden.
 Es gibt aber auch die andere Seite: Manchmal sehe oder verstehe ich nicht, was Gott als nächstes in meinem Leben tun will. Einige meiner Pläne gehen nicht so auf, wie ich es mir erhoffe, und einige Wege, die ich gerne gehen würde, erweisen sich als verschlossen. Ein Beispiel: Meine Suche nach einem Job war bisher nicht erfolgreich. Auch wenn ich voller Zuversicht war, dass Gott bereits einen Job für mich vorbereitet hat, bleibt offen, _wann_ das sein wird... ;). Mein Ziel, als Mitarbeiter aus erster Hand durch inspirierende Gemeindeleiter im Bezug auf Leiterschaft zu wachsen, hat sich nicht erfüllt. 
 
