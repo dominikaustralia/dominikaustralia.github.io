@@ -5,7 +5,7 @@ support: [jquery, gallery]
 # tags:
 ---
 
-## Travels, Teenstreet, Tasmanien, Geänderte Pläne 2.0  \|  Travels, Teenstreet, Tasmania, Changed Plans 2.0
+## Unterwegs, Teenstreet, Tasmanien, Geänderte Pläne 2.0  \|  Travels, Teenstreet, Tasmania, Changed Plans 2.0
 Zuerst kommt das englische Original, unten findet sich die [deutsche Version](#deutsch).
 
 ---
@@ -25,6 +25,7 @@ My plan (or should I rather say: God's desire) was that I share the joy, peace, 
 
 A nice learning for me was to have the following question in my mind daily:
 > "Jesus, whom will I meet today and how can I share the good news of you with them?"
+
 It was not so much my own determination to pick people up for a conversation, it was more Gods guidance via frequent small "not-coincidences" that led me to people who needed to hear the [GOSPEL](https://www.dare2share.org/resources/life-in-6-words/). Some were searching and openhearted (like Marc* in the [Blue Mountains](https://maps.app.goo.gl/zVmrVwXqKvFfZVWc9), *name changed), at other times I was questioning my "method" and was wondering whether I should do something differently to engage with more people.
 
 I continued northwards to Coffs Harbour where I got to spend a few days with a lovely German family. They had moved to Australia as missionaries many years ago and introduced me to "bush church" – a congregation of believers from different denominations that had formed during the covid restrictions. It was great to worship alongside them, share what God had put on my heart, and have good conversations. I was also invited to a small Bible study group which I attended the next Tuesday – little did I know that this could later prove largely momentous.
@@ -34,6 +35,7 @@ After leaving Coffs Harbour, I arrived at [Teenstreet](https://teenstreet.au), a
 
 At the camp we had quite a big tech crew of volunteers. This was a blessing, yet also a challenge for me personally: not having a major responsibility or clear job was something I wasn't as familiar with anymore. There were long times of me standing by to jump in if there was a need, although I would have liked to do more than taking care of rubbish bags and placing chairs. Not super exciting, rather a bit ... humbling. Doing the audio mixing in the big tent would have been great. Or joining the worship team;). However, I wanted to make the most out of it and could spent more time with Jesus on my own, for example in the prayer tent or during additional worship in the evening. I felt Jesus was challenging me with this situation and with Him by my side I actually got to enjoy placing all the chairs – praying over every person that would sit there and asking for a quick blessing from God. "Peace", "joy", "a decision for Jesus", "more hunger after God's word", ... . Towards the end of the camp, we had our daily shhh time – 30 minutes of absolute silence, with no music or talking, simply time to spend with Jesus. The question we were invited to reflect on was:
 > "Are you okay with being small?"
+
 Dear reader, just think about this question for a few seconds: Do you have big plans for your life? Are you working hard to leave your legacy? Is it important for you to be seen and have influence? Or _are you okay with being small_?
 
 Some of us are called to lead, speak into people's life, have influence. But in all of that, God would like us to have a humble and servant heart.
@@ -48,7 +50,7 @@ Rewind the timeline about four weeks. I was at Coffs Harbour, at the Bible study
 I had camped along the east coast, had met backpackers in the Blue Mountains, and had travelled Tasmania with another German. So now my question was: _what is our next step, Jesus? Shall I continue my trip with you all the way up the east coast to Cairns? Or should we give it a chance and use the remaining two months to get to know this girl more?_
 Long story short: I decided to drive from Brisbane back to Coffs Harbour, bought a rose, and... Here we are, getting to know each other more and asking God, whether He has prepared a life for us together.
 
-> Will you come back to Germany?
+### Will you come back to Germany?
 Yes. My next steps from the beginning of July on are: a holiday with another Christian friend from Germany, helping with a camp at a Bible school in Bali, and then I will come back to Germany.
 
 My adventure with God in Australia (and after) continues...
@@ -73,6 +75,7 @@ Mein Plan (oder sollte ich besser sagen: Gottes Wunsch) war, dass ich die Freude
 
 Eine wertvolle Erfahrung für mich war, dass ich täglich die folgende Frage im Kopf hatte:
 > "Jesus, wen werde ich heute treffen und wie kann ich ihnen die gute Nachricht von dir weitergeben?"
+
 Es war nicht so sehr meine eigene Entschlossenheit, Menschen ein Gespräch aufzudrücken, es war mehr Gottes Führung durch häufige kleine "Nicht-Zufälle", die mich zu Menschen führten, die die Gute Botschaft von Jesus (engl. [GOSPEL](https://www.dare2share.org/resources/life-in-6-words/)) hören wollten. Einige waren suchend und offenherzig (wie Marc* in den [Blue Mountains](https://maps.app.goo.gl/zVmrVwXqKvFfZVWc9), *Name geändert), zu anderen Zeiten stellte ich mein "Vorgehen" in Frage und überlegte, ob ich nicht etwas verändern sollte, um mit mehr Menschen in Kontakt zu kommen.
 
 Ich fuhr weiter in den Norden nach Coffs Harbour, wo ich ein paar Tage bei einer netten deutschen Familie verbringen konnte. Sie waren vor vielen Jahren als Missionare nach Australien gezogen und stellten mir die "Buschkirche" vor – eine Gemeinde von Gläubigen verschiedener Konfessionen, die sich während der Covid-Restriktionen gebildet hatte. Es war großartig, mit ihnen zusammen Gott anzubeten, Gottes Weg mit mir zu teilen und gute Gespräche zu führen. Ich wurde auch zu einer Kleingruppe zum Bibellesen eingeladen, die ich am nächsten Dienstag besuchte - ich ahnte nicht, dass sich dies später noch als sehr folgenreich erweisen würde.
@@ -82,6 +85,7 @@ Nachdem ich Coffs Harbour verlassen hatte, kam ich bei [Teenstreet](https://teen
 
 Auf dem Camp hatten wir eine ziemlich große Gruppe von Freiwilligen. Das war ein Segen, aber auch eine Herausforderung für mich persönlich: Keine große Verantwortung oder klare Aufgabe zu haben war ich nicht mehr so gewohnt. Oft stand ich einfach bereit, um bei Bedarf einzuspringen. Gerne hätte ich mehr gemacht, als Müllsäcke aufzuhängen und Stühle aufzustellen. Es war etwas unaufregend, sogar ein bisschen ... demütigend. Am Mischpult den Mix zu machen, das wäre toll gewesen. Oder einfach spontan in der Band mitspielen ;). Aber ich wollte das Beste aus der Situation machen und konnte für mich mehr Zeit mit Jesus verbringen, zum Beispiel im Gebetszelt oder beim abendlichen Lobpreis. Ich spürte, dass Jesus mich mit dieser Situation herausforderte, und mit ihm an meiner Seite konnte ich es sogar genießen, einfach nur alle Stühle aufzustellen - und über jede Person, die dort sitzen würde, zu beten und um einen kurzen Segen von Gott zu bitten. "Frieden", "Freude", "eine Entscheidung für Jesus", "mehr Hunger nach Gottes Wort", ... . Gegen Ende des Camps hatten wir unsere tägliche "shhh"-Zeit – 30 Minuten absolute Stille, ohne Musik oder Reden, einfach Zeit, die wir mit Jesus verbringen konnten. Die Frage, über die wir nachdenken sollten, lautete:
 > "Ist es für dich in Ordnung, klein zu sein?"
+
 Lieber Leser, denk einmal ein paar Sekunden über diese Frage nach: Hast du große Pläne für dein Leben? Arbeitest du hart daran, dein Erbe zu hinterlassen? Ist es für dich wichtig, gesehen zu werden und Einfluss zu haben? Oder _ist es für dich in Ordnung, klein zu sein_?
 
 Einige von uns sind dazu berufen, zu leiten, in das Leben von Menschen zu sprechen, Einfluss zu haben. Aber bei all dem möchte Gott, dass wir ein demütiges und dienendes Herz bewahren.
@@ -91,12 +95,12 @@ Direkt nach Teenstreet bin ich mit einem deutschen Reisepartner nach Tasmanien g
 Nach meiner Rückkehr nach Brisbane durfte ich im Haus eines anderen christlichen Kontakts übernachten. Es ist wunderbar, Brüder und Schwestern in Christus überall auf der Welt zu haben. Hier hatte ich auch einige gute Gespräche mit einem anderen deutschen Backpacker und ich konnte meine Begeisterung über die Tatsache teilen, dass wir in Jesus Christus [ein Leben im Überfluss](https://www.bibleserver.com/DBU/Johannes10%2C10) haben, ein Leben in Gemeinschaft [mit dem, der weit über unsere Gebete oder Vorstellungskraft wirken kann](https://www.bibleserver.com/DBU/Epheser3%2C20).
 
 ### Geänderte Pläne 2.0
-Wir spulen einmal um ca vier Wochen zurück. Ich war in Coffs Harbour bei der Kleingruppe. Wir hatten eine gute Zeit beim Studieren von Daniel und waren danach am [Steg](https://maps.app.goo.gl/eX7rEptWZ5UeWHkFA) spazieten, um uns noch etwas zu unterhalten. Ich redete mich mit einem anderen Mann und hörte seine spannende Geschichte mit Jesus, aber da war auch diese junge Frau, mit der ich gerne mal noch kurz geredet hätte. Sie war mir schon am Sonntag aufgefallen (sie hat unsere Gesprächsgruppe gut geleitet und mich auch zum Bibelstudium eingeladen), aber ich hatte noch keine Gelegenheit gehabt, mit ihr zu sprechen. Ich hätte auch gerne von ihr gehört, was Gott in ihrem Leben getan hat (und sie auch persönlich etwas kennenzulernen) – also fragte ich, ob wir uns nicht mal treffen wollten. Sie sagte zu und am nächsten Tag hatten wir ein gutes und langes Gespräch (von dem ich aber fast alles wieder vergessen habe... ;)). Es fühlte sich überraschend vertraut an, Zeit mit ihr zu verbringen, und ich fand es schade, meine Reise danach fortzusetzen währen ich sie zurückzuließ. Während Teenstreet und Tasmanien fingen wir an, uns zu schreiben, und ich bekam den Eindruck, dass da ein Interesse nicht nur auf meiner Seite bestand...
+Wir spulen einmal um ca vier Wochen zurück. Ich war in Coffs Harbour bei der Kleingruppe. Wir hatten eine gute Zeit beim Studieren von Daniel und waren danach am [Steg](https://maps.app.goo.gl/eX7rEptWZ5UeWHkFA) spazieren, um uns noch etwas zu unterhalten. Ich redete mich mit einem anderen Mann und hörte seine spannende Geschichte mit Jesus, aber da war auch diese junge Frau, mit der ich gerne mal noch kurz geredet hätte. Sie war mir schon am Sonntag aufgefallen (sie hat unsere Gesprächsgruppe gut geleitet und mich auch zum Bibelstudium eingeladen), aber ich hatte noch keine Gelegenheit gehabt, mit ihr zu sprechen. Ich hätte auch gerne von ihr gehört, was Gott in ihrem Leben getan hat (und sie auch persönlich etwas kennenzulernen) – also fragte ich, ob wir uns nicht mal treffen wollten. Sie sagte zu und am nächsten Tag hatten wir ein gutes und langes Gespräch (von dem ich aber fast alles wieder vergessen habe... ;)). Es fühlte sich überraschend vertraut an, Zeit mit ihr zu verbringen, und ich fand es schade, meine Reise danach fortzusetzen währen ich sie zurückzuließ. Während Teenstreet und Tasmanien fingen wir an, uns zu schreiben, und ich bekam den Eindruck, dass da ein Interesse nicht nur auf meiner Seite bestand...
 
 Nun war ich also an der Ostküste zum campen gewesen, hatte Backpacker in den Blue Mountains und anderswo getroffen und war mit einem anderen Deutschen durch Tasmanien gereist. Meine Frage war nun: _Was ist unser nächster Schritt, Jesus? Soll ich mit dir weiter die Ostküste hinauf bis nach Cairns reisen? Oder soll ich nochmal umdrehen und die verbleibenden zwei Monate nutzen, um einem Kennenlernen mit dieser jungen Frau eine Chance zu geben?_
 Lange Rede, kurzer Sinn: Ich beschloss, von Brisbane zurück nach Coffs Harbour zu fahren, kaufte eine Rose, und... Hier sind wir nun, lernen uns besser kennen und fragen Gott, ob er nicht vielleicht ein gemeinsames Leben für uns vorbereitet hat.
 
-> Kommst du zurück nach Deutschland?
+### Kommst du zurück nach Deutschland?
 Ja. Meine nächsten Schritte ab Anfang Juli sind: ein Urlaub mit einem anderen christlichen Freund aus Deutschland, Hilfe bei einem Camp in einer Bibelschule auf Bali, und dann geht es fürs Erste zurück nach Deutschland.
 
 Mein Abenteuer mit Gott in Australien (und danach) geht weiter...
@@ -105,8 +109,12 @@ Mein Abenteuer mit Gott in Australien (und danach) geht weiter...
 ---
 # Bilder
 
-Reiseroute / Itenerary (mit / with [Waypoint](https://waypoint.jakelazaroff.com)): 
+## Unterwegs   \|  Travels
 
+{% include gallery-tiles.html gallery=site.data.galleries.2025-05_01_travels id_number=1 %}
+
+## Tasmanien   \|  Tasmania
+Reiseroute / Itenerary (mit / with [Waypoint](https://waypoint.jakelazaroff.com)): 
 <table>
   <tr>
     <td style="width:70%">
@@ -117,11 +125,5 @@ Reiseroute / Itenerary (mit / with [Waypoint](https://waypoint.jakelazaroff.com)
     </td>
   </tr>
 </table>
-
-## Unterwegs   \|  Travels
-
-{% include gallery-tiles.html gallery=site.data.galleries.2025-05_01_travels id_number=1 %}
-
-## Tasmanien   \|  Tasmania
 
 {% include gallery-tiles.html gallery=site.data.galleries.2025-05_02_tasmania id_number=2 %}
