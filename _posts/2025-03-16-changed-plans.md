@@ -33,7 +33,7 @@ I am excited what God has prepared that I shall do. While travelling and looking
 Even if my trip turns out to be "just" holiday, I can enjoy it and keep asking this question daily: what would YOU like to do today, God? The freedom that comes from God ultimately taking the responsibility is... fantastic. 
 
 So, now I'm going on a road trip following the east coast, only with a rough itenerary: one week to the Bible school where I have been before, another week and a half up to Brisbane. There I'm going to volunteer at Teenstreet again, before flying to Tasmania with a German travel mate whom I met via a WhatsApp group. After these two weeks I'd like to find a job somewhere in Queensland in a warehouse, having completed a forklift licence recently. 
-I'm excited how Good will lead me in this and where he'll guide me next. 
+I'm excited how God will lead me in this and where he'll guide me next. 
 
 Join me in praying for people on the search whom I'll meet on my trip, that they would find answers and hope in Jesus. Pray for myself that I would trust God, listen to him, and be given the right words to speak into lives and specific situations. Thank you very much. 
 
